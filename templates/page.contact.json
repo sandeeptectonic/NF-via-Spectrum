@@ -1,0 +1,166 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_image_text_banner_wcYLKf": {
+      "type": "section-image-text-banner",
+      "blocks": {
+        "text_Ahnrkp": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Contact Us</strong></p>",
+            "text_size": 9,
+            "text_width": 100,
+            "text_size_mobile": 7,
+            "text_style": "body"
+          }
+        },
+        "link_EVbqBp": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "link_title": "Shop all",
+            "link": "",
+            "link_style": "c-btn c-btn--hollow"
+          }
+        }
+      },
+      "block_order": [
+        "text_Ahnrkp",
+        "link_EVbqBp"
+      ],
+      "name": "Image and text banner",
+      "settings": {
+        "section_height": "small",
+        "section_height_mobile": "extra-small",
+        "section_width": "full",
+        "content_alignment": "center",
+        "content_color": "#ffffff",
+        "content_heading_color": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "bg_image": "shopify://shop_images/IMG_2580.heic",
+        "overlay_color": "#000000",
+        "overlay_strength": 60,
+        "section-bottom-margin": false
+      }
+    },
+    "section_multi_column_icons_eA4gKN": {
+      "type": "section-multi-column-icons",
+      "blocks": {
+        "text_FrrDey": {
+          "type": "text",
+          "settings": {
+            "icon": "icon-envelope",
+            "color_icon": "rgba(0,0,0,0)",
+            "svg-code": "",
+            "title": "Email Us",
+            "sub_title": "",
+            "desc": "<p>support@nutritionfaktory.com</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_ktFEaV": {
+          "type": "text",
+          "settings": {
+            "icon": "icon-headphones-customer-support",
+            "color_icon": "rgba(0,0,0,0)",
+            "svg-code": "",
+            "title": "Chat With Us",
+            "sub_title": "",
+            "desc": "<p>Chat with us below on our live chat</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_CTiXe9": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-megaphone",
+            "color_icon": "rgba(0,0,0,0)",
+            "svg-code": "",
+            "title": "Call Us",
+            "sub_title": "",
+            "desc": "<p>Give us a call at <a href=\"tel:8888128848\">888-346-0619</a></p>",
+            "link_title": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_FrrDey",
+        "text_ktFEaV",
+        "text_CTiXe9"
+      ],
+      "name": "Multicolumn with icons",
+      "settings": {
+        "title": "",
+        "container": "small",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "icon_size": 30,
+        "icon_padding": 0,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_pYQEnm": {
+      "type": "section-rich-text",
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<p>Some brands are only available in store or in certain areas. If you have questions about a specific brand or any questions at all please fill out the form below</p>",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_width": "tiny"
+      }
+    },
+    "form": {
+      "type": "section-contact-form",
+      "settings": {
+        "heading": "",
+        "background": true,
+        "divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    }
+  },
+  "order": [
+    "section_image_text_banner_wcYLKf",
+    "section_multi_column_icons_eA4gKN",
+    "section_rich_text_pYQEnm",
+    "main",
+    "form"
+  ]
+}

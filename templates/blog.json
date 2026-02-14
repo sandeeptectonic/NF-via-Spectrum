@@ -1,0 +1,201 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_scrolling_text_UyET3w": {
+      "type": "section-scrolling-text",
+      "blocks": {
+        "text_RXGkMw": {
+          "type": "text",
+          "settings": {
+            "text": "Discover insights",
+            "link": ""
+          }
+        },
+        "icon_dCgT3V": {
+          "type": "icon",
+          "settings": {
+            "icon": "separator-hyphen",
+            "svg-code": "",
+            "link": ""
+          }
+        },
+        "text_PihGAp": {
+          "type": "text",
+          "settings": {
+            "text": "Get inspired",
+            "link": ""
+          }
+        },
+        "icon_c8y7qn": {
+          "type": "icon",
+          "settings": {
+            "icon": "separator-dash",
+            "svg-code": "",
+            "link": ""
+          }
+        },
+        "text_zRijwQ": {
+          "type": "text",
+          "settings": {
+            "text": "Explore",
+            "link": ""
+          }
+        },
+        "icon_i4gcFK": {
+          "type": "icon",
+          "settings": {
+            "icon": "separator-dash",
+            "svg-code": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_RXGkMw",
+        "icon_dCgT3V",
+        "text_PihGAp",
+        "icon_c8y7qn",
+        "text_zRijwQ",
+        "icon_i4gcFK"
+      ],
+      "disabled": true,
+      "settings": {
+        "divider": true,
+        "section_width": "contained",
+        "gap_desktop": 1,
+        "gap_mobile": 1,
+        "scroll_direction": "rtl",
+        "scroll_style": "auto_hover_pause",
+        "scroll_duration": 2,
+        "text_size_desktop": 4,
+        "text_size_mobile": 6,
+        "text_style": "heading",
+        "text_letter_spacing": 0,
+        "text_bold": false,
+        "text_capitalize": false,
+        "text_outline": false,
+        "icon_size_desktop": 10,
+        "icon_size_mobile": 10,
+        "color_text": "#212121",
+        "gradient_text": "",
+        "color_bg": "",
+        "gradient_bg": "",
+        "color_icon": "#212121",
+        "bg_parallax": false,
+        "bg_repeat": false,
+        "bg_repeat_size": 100,
+        "overlay_color": "",
+        "overlay_strength": 0,
+        "blur_strength": 0,
+        "pattern_style": "none",
+        "color_pattern": "#212121",
+        "pattern_size": 20,
+        "pattern_opacity": 20,
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_with_text_YGfF66": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_txLnFh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Alani-Nu-Top-Sellers_1920x1080_Blog_002_1512x_cc2fbaab-3b18-482c-af5d-c814706e80f2.webp",
+            "title": "Blog",
+            "desc": "<h5>Alani Nu: Empowering Your Journey to Wellness and Fitness</h5>",
+            "horizontal_align": "left",
+            "link_title": "Learn more",
+            "link": "shopify://blogs/news/alani-nu-empowering-your-journey-to-wellness-and-fitness",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        }
+      },
+      "block_order": [
+        "image_txLnFh"
+      ],
+      "disabled": true,
+      "settings": {
+        "container": "large",
+        "block_spacing": 1,
+        "image_ratio": "natural",
+        "block_layout": "2/3",
+        "block_align": "left",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow",
+        "padding_top": 15,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "custom_css": [
+        "#blog-tags {text-transform: uppercase;}"
+      ],
+      "settings": {
+        "show_tags": true,
+        "show_rss": false,
+        "grid": 3,
+        "page_width": "full",
+        "blog_image_ratio": "16:9",
+        "show_blog_tags": false,
+        "show_blog_date": true,
+        "show_blog_read_more": true,
+        "show_blog_excerpt": false
+      }
+    },
+    "section_collection_FhwyqL": {
+      "type": "section-collection",
+      "blocks": {
+        "collection_B3HgQV": {
+          "type": "collection",
+          "settings": {
+            "heading": "health and wellness",
+            "heading_color": "rgba(0,0,0,0)",
+            "collection": "wellness",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_B3HgQV"
+      ],
+      "settings": {
+        "title": "Curated Favorites",
+        "text_alignment": "center",
+        "section_width": "small",
+        "link_title": "View all",
+        "link": "",
+        "divider": false,
+        "maximum_products": 6,
+        "grid": 3,
+        "enable_carousel_desktop": true,
+        "grid_mobile": "1",
+        "enable_carousel_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "section_scrolling_text_UyET3w",
+    "section_image_with_text_YGfF66",
+    "main",
+    "section_collection_FhwyqL"
+  ]
+}

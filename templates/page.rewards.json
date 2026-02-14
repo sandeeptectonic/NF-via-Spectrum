@@ -1,0 +1,69 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        ".rte img {margin: 0px;}",
+        ".container {padding: 0 60px;}"
+      ],
+      "settings": {
+        "page_width": "large"
+      }
+    },
+    "section_image_grid_kfVaNf": {
+      "type": "section-image-grid",
+      "blocks": {
+        "image_CPYnrB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1.jpg",
+            "text_alignment": "middle",
+            "text_border_color": false,
+            "title": "",
+            "text": "",
+            "link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300"
+          }
+        },
+        "image_GmwX6x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2.jpg",
+            "text_alignment": "bottom",
+            "text_border_color": false,
+            "title": "",
+            "text": "",
+            "link": "https://play.google.com/store/search?q=nutrition%20faktory&c=apps&hl=en_US&gl=US"
+          }
+        }
+      },
+      "block_order": [
+        "image_CPYnrB",
+        "image_GmwX6x"
+      ],
+      "custom_css": [],
+      "settings": {
+        "featured": false,
+        "height": "small",
+        "width": "large",
+        "button_style": "hollow",
+        "overlay_strength": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_image_grid_kfVaNf"
+  ]
+}

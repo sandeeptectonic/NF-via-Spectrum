@@ -1,0 +1,13 @@
+{%- assign w_continue = 'no' -%}
+{% assign wlmHideItem_Product = false %}{% assign wlmLockedTags246338 = false %}
+{% assign wlmLockedTags246349 = false %}
+{% for tag in customer.tags %}
+{% if tag == 'WPDTest' %}{% assign wlmLockedTags246338 = true %}{% endif %}
+{% if tag == 'faktorypass' %}{% assign wlmLockedTags246349 = true %}{% endif %}
+{% endfor %}
+
+
+
+{% if wlmHideItem_Product == true %}{% continue %}{% endif %}
+
+{%- if wlm_is_render == 'yes' -%}{{- w_continue -}}{%-endif-%}

@@ -1,0 +1,599 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_width": "large"
+      }
+    },
+    "section_image_text_banner_EYj4Lq": {
+      "type": "section-image-text-banner",
+      "disabled": true,
+      "settings": {
+        "section_height": "large",
+        "section_height_mobile": "medium",
+        "section_width": "full",
+        "content_alignment": "center",
+        "content_color": "#ffffff",
+        "content_heading_color": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_slideshow_wfHWwf": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_mH6XnG": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/BOGO-40-NF-APP_WBD_2200x600_01.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mH6XnG"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".section--template--22096890888385__section_image_slideshow_wfHWwf {margin-bottom: 0px !important;}"
+      ],
+      "settings": {
+        "show_on_device": "desktop--device",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "nav_style": "solid-brand",
+        "nav_arrows": true,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_slideshow_hVzmzN": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_EL9Pa8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BOGO-40-NF-APP_WBM_1400_01.jpg",
+            "link": "https://nutritionfaktory.com/pages/contact-us"
+          }
+        }
+      },
+      "block_order": [
+        "image_EL9Pa8"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_device": "mobile--device",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "nav_style": "solid-brand",
+        "nav_arrows": true,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_7M3Xj7": {
+      "type": "section-rich-text",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "full_width": false,
+        "section_title": "SIMPLY:",
+        "text": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_multi_column_icons_thfEzJ": {
+      "type": "section-multi-column-icons",
+      "blocks": {
+        "text_WPiz3Y": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-love-it",
+            "color_icon": "rgba(0,0,0,0)",
+            "svg-code": "<!--?xml version=\"1.0\" encoding=\"utf-8\"?-->\n<!-- Generator: Adobe Illustrator 28.5.0, SVG Export Plug-In . SVG Version: 9.03 Build 54727)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" viewbox=\"0 0 50 50\" style=\"enable-background:new 0 0 50 50;\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n<style type=\"text/css\">\n\t.st0{fill:#00B900;}\n\t.st1{fill:#FFFFFF;}\n</style>\n<g>\n\t<g>\n\t\t<path class=\"st0\" d=\"M35.4,0H14.6L0,14.6v20.7L14.6,50h20.7L50,35.4V14.6L35.4,0z M30,39.8h-3.8V16.3h-6.1v-3.3H30V39.8z\"></path>\n\t</g>\n\t<g>\n\t\t<polygon class=\"st1\" points=\"30,12.9 30,39.8 26.2,39.8 26.2,16.3 20.1,16.3 20.1,12.9 \t\t\"></polygon>\n\t</g>\n</g>\n</svg>",
+            "title": "Download the Nutrition Faktory App",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "Learn more",
+            "link": ""
+          }
+        },
+        "text_cYYiRd": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-sea-transport-boat",
+            "color_icon": "rgba(0,0,0,0)",
+            "svg-code": "<!--?xml version=\"1.0\" encoding=\"utf-8\"?-->\n<!-- Generator: Adobe Illustrator 28.5.0, SVG Export Plug-In . SVG Version: 9.03 Build 54727)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" viewbox=\"0 0 50 50\" style=\"enable-background:new 0 0 50 50;\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n<style type=\"text/css\">\n\t.st0{fill:#00B900;}\n\t.st1{fill:#FFFFFF;}\n</style>\n<g>\n\t<g>\n\t\t<polygon class=\"st0\" points=\"50,14.6 50,35.4 35.4,50 14.6,50 0,35.4 0,14.6 14.6,0 35.4,0 \t\t\"></polygon>\n\t</g>\n</g>\n<g>\n\t<g>\n\t\t<polygon class=\"st0\" points=\"35.4,0 14.6,0 0,14.6 0,35.4 14.6,50 35.4,50 50,35.4 50,14.6 \t\t\"></polygon>\n\t</g>\n\t<g>\n\t\t<path class=\"st1\" d=\"M34.7,36.5v3.3H15.4v-2.6l11-10.6c1-0.9,1.7-1.7,2.2-2.5c0.5-0.7,0.8-1.3,1-2c0.2-0.6,0.2-1.2,0.2-1.8\n\t\t\tc0-1.4-0.5-2.5-1.5-3.3c-1-0.8-2.4-1.2-4.3-1.2c-1.4,0-2.7,0.2-3.9,0.7C19,17.2,18,18,17.1,19l-2.6-2.3c1-1.3,2.4-2.3,4.1-3\n\t\t\tc1.7-0.7,3.6-1.1,5.7-1.1c1.9,0,3.5,0.3,4.9,0.9c1.4,0.6,2.5,1.5,3.2,2.6c0.8,1.1,1.1,2.5,1.1,4c0,0.9-0.1,1.7-0.4,2.6\n\t\t\tc-0.2,0.8-0.7,1.7-1.3,2.7c-0.6,1-1.6,2-2.8,3.2l-8.2,7.9H34.7z\"></path>\n\t</g>\n</g>\n</svg>",
+            "title": "Opt-in to receive push notifications",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "Learn more",
+            "link": ""
+          }
+        },
+        "text_QUAiDx": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-conversation-chat-text",
+            "color_icon": "rgba(0,0,0,0)",
+            "svg-code": "<!--?xml version=\"1.0\" encoding=\"utf-8\"?-->\n<!-- Generator: Adobe Illustrator 28.5.0, SVG Export Plug-In . SVG Version: 9.03 Build 54727)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" x=\"0px\" y=\"0px\" viewbox=\"0 0 50 50\" style=\"enable-background:new 0 0 50 50;\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xml:space=\"preserve\">\n<style type=\"text/css\">\n\t.st0{fill:#00B900;}\n\t.st1{fill:#FFFFFF;}\n</style>\n<g>\n\t<g>\n\t\t<polygon class=\"st0\" points=\"35.4,0 14.6,0 0,14.6 0,35.4 14.6,50 35.4,50 50,35.4 50,14.6 \t\t\"></polygon>\n\t</g>\n\t<g>\n\t\t<path class=\"st1\" d=\"M34.3,31.9c0,1.5-0.4,2.9-1.1,4.2c-0.7,1.2-1.9,2.2-3.4,3c-1.5,0.7-3.4,1.1-5.7,1.1c-1.9,0-3.7-0.3-5.5-0.9\n\t\t\tc-1.8-0.6-3.2-1.4-4.4-2.4l1.8-3c0.9,0.8,2.1,1.5,3.5,2.1c1.4,0.5,3,0.8,4.6,0.8c2,0,3.5-0.4,4.7-1.3c1.1-0.9,1.7-2,1.7-3.5\n\t\t\tc0-1.4-0.5-2.5-1.6-3.4c-1.1-0.9-2.8-1.3-5.1-1.3h-2.2v-2.7l6.7-8.3H15.4v-3.3h17.8v2.6l-7,8.7c2.5,0.2,4.3,0.9,5.7,2.1\n\t\t\tC33.5,27.8,34.3,29.7,34.3,31.9z\"></path>\n\t</g>\n</g>\n</svg>",
+            "title": "Get a notification with the BOGO40 discount code",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_WPiz3Y",
+        "text_cYYiRd",
+        "text_QUAiDx"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "container": "small",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "icon_size": 30,
+        "icon_padding": 0,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_r4y9We": {
+      "type": "section-rich-text",
+      "disabled": true,
+      "custom_css": [
+        ".home-rich-text__content h3 {color: green;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<h2>CLAIM YOUR BOGO40 DISCOUNT NOW:</h2><h3>DOWNLOAD THE APP + OPT-IN TO NOTIFICATIONS</h3>",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_multi_column_images_CcJYNF": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_44zAWi": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "image_link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300",
+            "image": "shopify://shop_images/Download-Apple-Store-NF-APP_03.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_byew96": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "image_link": "https://play.google.com/store/search?q=nutrition%20faktory&c=apps&hl=en_US&gl=US",
+            "image": "shopify://shop_images/Download-Google-Play-NF-APP_03.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": "https://nutritionfaktory.com/pages/test"
+          }
+        }
+      },
+      "block_order": [
+        "text_44zAWi",
+        "text_byew96"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_device": "desktop--device",
+        "title": "",
+        "container": "large",
+        "link_title": "",
+        "link": "",
+        "divider": false,
+        "grid": 2,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_multi_column_images_QMGEXk": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_gURiRm": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300",
+            "image": "shopify://shop_images/Download-Apple-Store-NF-APP-Button_0.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_jP6jBG": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://play.google.com/store/search?q=nutrition%20faktory&c=apps&hl=en_US&gl=US",
+            "image": "shopify://shop_images/Download-Google-Play-NF-APP-Button_01.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_gURiRm",
+        "text_jP6jBG"
+      ],
+      "settings": {
+        "show_on_device": "mobile--device",
+        "title": "",
+        "container": "large",
+        "link_title": "",
+        "link": "",
+        "divider": false,
+        "grid": 2,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_slideshow_WTenyx": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_nYDMpT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Instant-Rewards-05-May_WBD_2200x600_01.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_nYDMpT"
+      ],
+      "settings": {
+        "show_on_device": "desktop--device",
+        "autoplay": false,
+        "autoplay_speed": 10,
+        "nav_style": "solid-brand",
+        "nav_arrows": true,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_text_banner_AdWDjb": {
+      "type": "section-image-text-banner",
+      "disabled": true,
+      "settings": {
+        "section_height": "medium",
+        "section_height_mobile": "medium",
+        "section_width": "contained",
+        "content_alignment": "center",
+        "content_color": "#ffffff",
+        "content_heading_color": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "bg_image": "shopify://shop_images/Instant-Rewards-05-May_WBD_2200x600_01.jpg",
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_gXQLd9": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<h1>Get Rewarded Instantly Every Time You Shop The App</h1>",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_with_text_iDYeq9": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_qj6U7Q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Step-01-Download-App_04.jpg",
+            "title": "Step 1:",
+            "desc": "<h3>Download and Dive In</h3><p>Start by downloading the Nutrition Faktory App. It's your gateway to exclusive perks and a world of health and fitness. </p>",
+            "horizontal_align": "center",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        },
+        "image_MTc9Gy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Step-02-Shop-n-Score_02.jpg",
+            "title": "Step 2:",
+            "desc": "<h3>Shop and Score</h3><p>As you fill your cart with our top-notch supplements and gear, keep and eye on the reward thresholds. The more you shop, the bigger the surprise!</p>",
+            "horizontal_align": "center",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        },
+        "image_z7nEyN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Step-03-Choose-Your-Gift_02.jpg",
+            "title": "Step 3:",
+            "desc": "<h3>Choose Your Gift</h3><p>Reached a reward milestone? Fantastic! At checkout, you'll get to pick your free gift. From shakers to apparel and MORE!</p>",
+            "horizontal_align": "center",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        }
+      },
+      "block_order": [
+        "image_qj6U7Q",
+        "image_MTc9Gy",
+        "image_z7nEyN"
+      ],
+      "settings": {
+        "container": "full-width",
+        "block_spacing": 0,
+        "image_ratio": "16:9",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 3,
+        "link_style": "hollow",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_TX8e6k": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<h2>YOU DESERVE A REWARD:</h2>",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_multi_column_images_gEAMt9": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_4YKLxd": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300",
+            "image": "shopify://shop_images/Download-Apple-Store-NF-APP_03.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_C3b3XU": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://play.google.com/store/search?q=nutrition%20faktory&c=apps&hl=en_US&gl=US",
+            "image": "shopify://shop_images/Download-Google-Play-NF-APP_03.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_4YKLxd",
+        "text_C3b3XU"
+      ],
+      "settings": {
+        "show_on_device": "desktop--device",
+        "title": "",
+        "container": "large",
+        "link_title": "",
+        "link": "",
+        "divider": false,
+        "grid": 2,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_multi_column_images_Lrq8z8": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_NwGhMz": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300",
+            "image": "shopify://shop_images/Download-Apple-Store-NF-APP-Button_0.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_mW7bMK": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://play.google.com/store/search?q=nutrition%20faktory&c=apps&hl=en_US&gl=US",
+            "image": "shopify://shop_images/Download-Google-Play-NF-APP-Button_01.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_NwGhMz",
+        "text_mW7bMK"
+      ],
+      "settings": {
+        "show_on_device": "mobile--device",
+        "title": "",
+        "container": "large",
+        "link_title": "",
+        "link": "",
+        "divider": false,
+        "grid": 2,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_image_text_banner_EYj4Lq",
+    "section_image_slideshow_wfHWwf",
+    "section_image_slideshow_hVzmzN",
+    "section_rich_text_7M3Xj7",
+    "section_multi_column_icons_thfEzJ",
+    "section_rich_text_r4y9We",
+    "section_multi_column_images_CcJYNF",
+    "section_multi_column_images_QMGEXk",
+    "section_image_slideshow_WTenyx",
+    "section_image_text_banner_AdWDjb",
+    "section_rich_text_gXQLd9",
+    "section_image_with_text_iDYeq9",
+    "section_rich_text_TX8e6k",
+    "section_multi_column_images_gEAMt9",
+    "section_multi_column_images_Lrq8z8"
+  ]
+}

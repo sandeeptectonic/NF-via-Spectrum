@@ -1,0 +1,82 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Footer group",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "f58ac740-bb9f-42d4-bf28-e224a9c7a5c5": {
+          "type": "linklist",
+          "settings": {
+            "title": "About Nutrition Faktory",
+            "linklist": "more-information"
+          }
+        },
+        "linklist_DVfUKA": {
+          "type": "linklist",
+          "settings": {
+            "title": "More Information",
+            "linklist": "footer"
+          }
+        },
+        "4471e50e-c157-46b7-ba5e-464266db8052": {
+          "type": "contact",
+          "settings": {
+            "title": "Get in touch",
+            "show_email": true,
+            "show_number": true,
+            "show_address": false,
+            "show_social": true,
+            "show_follow_on_shop": true
+          }
+        },
+        "image_r6jcgV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NF-Icon-338x150_01.png",
+            "image_width": 260,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "f58ac740-bb9f-42d4-bf28-e224a9c7a5c5",
+        "linklist_DVfUKA",
+        "4471e50e-c157-46b7-ba5e-464266db8052",
+        "image_r6jcgV"
+      ],
+      "settings": {
+        "footer_bg": "#070106",
+        "footer_style": "light",
+        "footer_heading_color": false,
+        "show_payment_icons": true,
+        "divider": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "section_liquid_Q9qaX4": {
+      "type": "section-liquid",
+      "custom_css": [
+        ".footer-disclaimer {background-color: #070106; display: flex; justify-content: center; align-items: center; height: 60px; text-align: center;}",
+        ".footer-disclaimer p {color: #999999; font-size: 11px; margin: 0;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"footer-disclaimer\">\n  <p>* THESE STATEMENTS HAVE NOT BEEN EVALUATED BY THE FOOD AND DRUG ADMINISTRATION. THESE PRODUCTS ARE NOT INTENDED TO DIAGNOSE, TREAT, CURE, OR PREVENT ANY DISEASE.</p>\n</div>"
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "section_liquid_Q9qaX4"
+  ]
+}

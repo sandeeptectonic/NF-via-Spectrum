@@ -1,0 +1,1224 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "sl_image_hero_1_1_4YLBxp": {
+      "type": "sl-image-hero-1-1",
+      "blocks": {
+        "reviews_CENyXb": {
+          "type": "reviews",
+          "settings": {
+            "devices": "all",
+            "stars": 5,
+            "reviews_text": "3,900+ 5 Star Reviews",
+            "text_size": "medium",
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "stars_color": "#ffffff",
+            "reviews_color": "#ffffff"
+          }
+        },
+        "headline_KFxNdE": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p><strong>SLAM DUNK SALE 🏀</strong></p>",
+            "strike_text": "",
+            "text_size": 58,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 32,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2"
+          }
+        },
+        "subheadline_hnghCR": {
+          "type": "subheadline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>All-Star Deals All Month Long</p>",
+            "strike_text": "",
+            "text_size": 24,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 16,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#00b900"
+          }
+        },
+        "countdown_exWcQf": {
+          "type": "countdown",
+          "settings": {
+            "devices": "all",
+            "countdown_date": "2025-06-30",
+            "countdown_time": "12:00 AM -05:00",
+            "timer_size": "medium",
+            "rounding": "none",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#ffffff",
+            "number_color": "rgba(0,0,0,0)",
+            "label_color": "#f2f2f2"
+          }
+        },
+        "overline_Q8MjHJ": {
+          "type": "overline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>Save big on protein, pre-workouts, wellness & more — no code needed.</p>",
+            "text_size": 16,
+            "letter_spacing": 10,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 10,
+            "badge_style": "outline",
+            "badge_rounding": "none",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2",
+            "badge_color": "rgba(0,0,0,0)"
+          }
+        },
+        "button_U437NW": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "large",
+            "button_rounding": "semi_round",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop & Save",
+            "button_style": "solid",
+            "button_link": "https://nutritionfaktory.com/collections/top-10-overall",
+            "icon_name": "icon-name",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "brand_style",
+            "second_button_link": "",
+            "second_icon_name": "icon-name",
+            "mobile_button_size": "large",
+            "mobile_button_width": "wide",
+            "anchor_bottom": true,
+            "button_color": "#00b900",
+            "text_color": "#ffffff",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_CENyXb",
+        "headline_KFxNdE",
+        "subheadline_hnghCR",
+        "countdown_exWcQf",
+        "overline_Q8MjHJ",
+        "button_U437NW"
+      ],
+      "disabled": true,
+      "settings": {
+        "devices": "all",
+        "image": "shopify://shop_images/Slam-Dunk-Sale-25-1280x720_WBD_03_0a792039-e8b8-4368-ba7a-2a2ffccea784.jpg",
+        "image_position": "right",
+        "image_overlay_opacity": 0,
+        "pattern_select": "33d0577f-ddce-44be-9ca4-f4ec96205765",
+        "section_height": "small",
+        "section_width": "small",
+        "content_position": "middle_center",
+        "section_border": "none",
+        "mobile_image": "shopify://shop_images/Screenshot_2025-06-23_at_10.42.55_AM.png",
+        "mobile_image_position": "background",
+        "mobile_image_overlay_opacity": 100,
+        "mobile_section_height": "small",
+        "mobile_content_position": "middle_center",
+        "background_color": "#242021",
+        "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "sl_image_hero_1_1_jiW6Fh": {
+      "type": "sl-image-hero-1-1",
+      "blocks": {
+        "reviews_HgDnTJ": {
+          "type": "reviews",
+          "settings": {
+            "devices": "mobile",
+            "stars": 5,
+            "reviews_text": "3,900+ 5 Star Reviews",
+            "text_size": "medium",
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "stars_color": "",
+            "reviews_color": ""
+          }
+        },
+        "headline_j46Rbh": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p><strong>SLAM DUNK SALE 🏀</strong></p>",
+            "strike_text": "",
+            "text_size": 58,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 38,
+            "mobile_top_padding": 10,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2"
+          }
+        },
+        "subheadline_FgAfKB": {
+          "type": "subheadline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>All-Star Deals All Month Long</p>",
+            "strike_text": "",
+            "text_size": 24,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 16,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#00b900"
+          }
+        },
+        "overline_aJpTB6": {
+          "type": "overline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>Save big on protein, pre-workouts, wellness & more — no code needed.</p>",
+            "text_size": 16,
+            "letter_spacing": 10,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 10,
+            "badge_style": "outline",
+            "badge_rounding": "none",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 10,
+            "mobile_bottom_padding": 15,
+            "text_color": "#f2f2f2",
+            "badge_color": "rgba(0,0,0,0)"
+          }
+        },
+        "button_yCdVPe": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "small",
+            "button_rounding": "semi_round",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop & Save",
+            "button_style": "solid",
+            "button_link": "https://nutritionfaktory.com/collections/top-10-overall",
+            "icon_name": "icon-name",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "brand_style",
+            "second_button_link": "",
+            "second_icon_name": "icon-name",
+            "mobile_button_size": "large",
+            "mobile_button_width": "wide",
+            "anchor_bottom": true,
+            "button_color": "#00b900",
+            "text_color": "#ffffff",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_HgDnTJ",
+        "headline_j46Rbh",
+        "subheadline_FgAfKB",
+        "overline_aJpTB6",
+        "button_yCdVPe"
+      ],
+      "disabled": true,
+      "settings": {
+        "devices": "mobile",
+        "image_position": "background",
+        "image_overlay_opacity": 0,
+        "pattern_select": "33d0577f-ddce-44be-9ca4-f4ec96205765",
+        "section_height": "small",
+        "section_width": "medium",
+        "content_position": "middle_center",
+        "section_border": "none",
+        "mobile_image_position": "background",
+        "mobile_image_overlay_opacity": 100,
+        "mobile_section_height": "small",
+        "mobile_content_position": "middle_center",
+        "background_color": "#242021",
+        "border_color": "#242021"
+      }
+    },
+    "section_image_slideshow_EPaRAn": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_qYR3cc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kickoff-Sale-25_WBM_01.jpg",
+            "link": "https://nutritionfaktory.com/collections/all-products"
+          }
+        }
+      },
+      "block_order": [
+        "image_qYR3cc"
+      ],
+      "disabled": true,
+      "name": "Mobile Image slideshow",
+      "settings": {
+        "show_on_device": "mobile--device",
+        "autoplay": false,
+        "autoplay_speed": 10,
+        "nav_style": "solid-brand",
+        "nav_arrows": true,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "sl_image_hero_1_1_xxPfUJ": {
+      "type": "sl-image-hero-1-1",
+      "blocks": {
+        "reviews_V9Xq9K": {
+          "type": "reviews",
+          "settings": {
+            "devices": "all",
+            "stars": 5,
+            "reviews_text": "3,900+ 5 Star Reviews",
+            "text_size": "medium",
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "stars_color": "#00b900",
+            "reviews_color": "#f2f2f2"
+          }
+        },
+        "headline_hyFq3M": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>Lowest Prices on Top Brands!</p>",
+            "strike_text": "",
+            "text_size": 48,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 32,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2"
+          }
+        },
+        "subheadline_QUaTqy": {
+          "type": "subheadline",
+          "settings": {
+            "devices": "all",
+            "text": "<ul><li>Crazy Fast Shipping</li><li>Live Experts Here to Help</li><li>Site-wide Discounts</li></ul>",
+            "strike_text": "",
+            "text_size": 22,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 16,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2"
+          }
+        },
+        "button_WXiM8j": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "medium",
+            "button_rounding": "semi_round",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "colorshift",
+            "button_text": "Shop Best Sellers Now",
+            "button_style": "brand_style",
+            "button_link": "https://nutritionfaktory.com/collections/all-products",
+            "icon_name": "icon-name",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "outline",
+            "second_button_link": "",
+            "second_icon_name": "",
+            "mobile_button_size": "match",
+            "mobile_button_width": "wide",
+            "anchor_bottom": true,
+            "button_color": "#00b900",
+            "text_color": "#ffffff",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
+          }
+        },
+        "benefits_B6XGXp": {
+          "type": "benefits",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "text_size": "medium",
+            "benefits_layout": "adjacent",
+            "font_style": "body",
+            "first_text": "Free shipping",
+            "first_icon_name": "truck",
+            "second_text": "Free returns",
+            "second_icon_name": "box",
+            "third_text": "Satisfaction guaranteed",
+            "third_icon_name": "star",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": "match",
+            "mobile_benefits_layout": "stacked",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "rgba(0,0,0,0)",
+            "icon_color": "rgba(0,0,0,0)"
+          }
+        },
+        "overline_6ayRwN": {
+          "type": "overline",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "text": "<p>Callout text</p>",
+            "text_size": 12,
+            "letter_spacing": 3,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "badge_style": "text",
+            "badge_rounding": "round",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#ffffff",
+            "badge_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_V9Xq9K",
+        "headline_hyFq3M",
+        "subheadline_QUaTqy",
+        "button_WXiM8j",
+        "benefits_B6XGXp",
+        "overline_6ayRwN"
+      ],
+      "settings": {
+        "devices": "all",
+        "image": "shopify://shop_images/Why-NF_WBD_1100x600_06.jpg",
+        "image_position": "right",
+        "image_overlay_opacity": 0,
+        "pattern_select": "279a66ed-76dc-4af7-819c-ce87c761c63e",
+        "section_height": "small",
+        "section_width": "large",
+        "content_position": "middle_left",
+        "section_border": "brand_style",
+        "mobile_image_position": "match_desktop",
+        "mobile_image_overlay_opacity": 100,
+        "mobile_section_height": "match",
+        "mobile_content_position": "match",
+        "background_color": "#242021",
+        "border_color": "#242021"
+      }
+    },
+    "section_image_slideshow_xwqNPV": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_Ff7pgL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kickoff-Sale-25_WBD_1920x600_03.jpg",
+            "link": "https://nutritionfaktory.com/collections/all-products"
+          }
+        }
+      },
+      "block_order": [
+        "image_Ff7pgL"
+      ],
+      "disabled": true,
+      "name": "Desktop Image slideshow",
+      "settings": {
+        "show_on_device": "desktop--device",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "outline",
+        "nav_arrows": true,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_multi_column_images_iJTTHn": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_kAcgQx": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://nutritionfaktory.com/products/lean-whey-iso-hydro-2lb?_pos=2&_psq=pumpkin+spice&_ss=e&_v=1.0&variant=42116165927105",
+            "image": "shopify://shop_images/MuscleSport-Pumpkin-Spice-Donut_WBD_01_276e3070-2fe1-4e12-8b1c-1e754f9cf224.jpg",
+            "title": "The Donut Everyone's Talking About",
+            "sub_title": "",
+            "desc": "<p>Pumpkin spice, creamy whey, and zero guilt in every scoop.</p>",
+            "link_title": "Get Yours Now",
+            "link": "https://nutritionfaktory.com/products/lean-whey-iso-hydro-2lb?_pos=2&_psq=pumpkin+spice&_ss=e&_v=1.0&variant=42116165927105"
+          }
+        },
+        "text_GH3Lbg": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://nutritionfaktory.com/collections/deals",
+            "image": "shopify://shop_images/70_-Off-Clearance_WBD_01.jpg",
+            "title": "Limited inventory. Big savings.",
+            "sub_title": "",
+            "desc": "<p>End-of-season deals on your go-to supplements. Shop now and save big before the shelves are empty.</p>",
+            "link_title": "Save Big Now",
+            "link": "https://nutritionfaktory.com/collections/deals"
+          }
+        },
+        "text_hCixhm": {
+          "type": "text",
+          "settings": {
+            "image_link": "shopify://products/supp-candy-pump-gummies-mixed-berry-30srv",
+            "image": "shopify://shop_images/Supp-Candy-Pump-Gummies-Now-Available_WBD.jpg",
+            "title": "The Sweetest Way to Pump",
+            "sub_title": "",
+            "desc": "<p>1,000mg Citrulline in Every Gummy. Only at the Nutrition Faktory.</p>",
+            "link_title": "Get it Now",
+            "link": "shopify://products/supp-candy-pump-gummies-mixed-berry-30srv"
+          }
+        }
+      },
+      "block_order": [
+        "text_kAcgQx",
+        "text_GH3Lbg",
+        "text_hCixhm"
+      ],
+      "custom_css": [
+        "a.c-btn--hollow {background-color: #00b900 !important; color: #ffffff; border: 0px solid #00b900; box-shadow: inset 0 0 0 0px var(--color--text);}",
+        ".multi-column__media {margin-bottom: 0px;}",
+        ".o-ratio--4\\:3:before {padding-bottom: 60% !important;}"
+      ],
+      "name": "(DESKTOP) Multicolumn with images",
+      "settings": {
+        "show_on_device": "desktop--device",
+        "title": "What’s New at Nutrition Faktory",
+        "container": "full",
+        "link_title": "",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 1,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 1,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel",
+        "padding_top": 12,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_multi_column_images_CnEbLp": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_CJhLKX": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://nutritionfaktory.com/products/lean-whey-iso-hydro-2lb?_pos=2&_psq=pumpkin+spice&_ss=e&_v=1.0&variant=42116165927105",
+            "image": "shopify://shop_images/MuscleSport-Pumpkin-Spice-Donut_WBM_01.jpg",
+            "title": "The Donut Everyone's Talking About",
+            "sub_title": "",
+            "desc": "<p>Pumpkin spice, creamy whey, and zero guilt in every scoop.</p>",
+            "link_title": "Get Yours Now",
+            "link": "https://nutritionfaktory.com/products/lean-whey-iso-hydro-2lb?_pos=2&_psq=pumpkin+spice&_ss=e&_v=1.0&variant=42116165927105"
+          }
+        },
+        "text_6gwfHD": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://nutritionfaktory.com/collections/deals",
+            "image": "shopify://shop_images/70_-Off-Clearance_WBM_01.jpg",
+            "title": "Limited inventory. Big savings.",
+            "sub_title": "",
+            "desc": "<p>End-of-season deals on your go-to supplements. Shop now and save big before the shelves are empty.</p>",
+            "link_title": "Save Big Now",
+            "link": "https://nutritionfaktory.com/collections/deals"
+          }
+        },
+        "text_iM77Wf": {
+          "type": "text",
+          "settings": {
+            "image_link": "shopify://products/supp-candy-pump-gummies-mixed-berry-30srv",
+            "image": "shopify://shop_images/Supp-Candy-Pump-Gummies-Now-Available_WBM_01.jpg",
+            "title": "The Sweetest Way to Pump",
+            "sub_title": "",
+            "desc": "<p>1,000mg Citrulline in Every Gummy. Only at the Nutrition Faktory.</p>",
+            "link_title": "Get it Now",
+            "link": "shopify://products/supp-candy-pump-gummies-mixed-berry-30srv"
+          }
+        }
+      },
+      "block_order": [
+        "text_CJhLKX",
+        "text_6gwfHD",
+        "text_iM77Wf"
+      ],
+      "name": "(Mobile) Multicolumn with images",
+      "settings": {
+        "show_on_device": "mobile--device",
+        "title": "What’s New at Nutrition Faktory",
+        "container": "full",
+        "link_title": "",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "primary",
+        "heading_size": 1,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "1:1",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel",
+        "padding_top": 6,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_collection_UjyWJC": {
+      "type": "section-collection",
+      "blocks": {
+        "collection_HJANc7": {
+          "type": "collection",
+          "settings": {
+            "heading": "",
+            "heading_color": "rgba(0,0,0,0)",
+            "collection": "top-10-overall",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_HJANc7"
+      ],
+      "custom_css": [
+        ".label__text {font-size: 13px !important; background-color: #e7f4eb; border: 1px solid #9ee250; border-radius: 5px; padding: 3px; display: inline-block; color: #111111;}"
+      ],
+      "settings": {
+        "title": "Best sellers",
+        "text_alignment": "center",
+        "section_width": "wide",
+        "link_title": "View all",
+        "link": "",
+        "divider": false,
+        "maximum_products": 48,
+        "grid": 6,
+        "enable_carousel_desktop": true,
+        "grid_mobile": "2",
+        "enable_carousel_mobile": true,
+        "padding_top": 30,
+        "padding_bottom": 0
+      }
+    },
+    "section_image_with_text_gKGkwz": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "image_qVJh8e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mike-Why-Shop-NF_WB_07.webp",
+            "title": "Why Nutrition Faktory?",
+            "desc": "<p>I’m Michael Bires, the founder of Nutrition Faktory. I started Nutrition Faktory with one goal in mind - give customers the best experience they’ve ever had at a nutrition store!</p>",
+            "horizontal_align": "center",
+            "link_title": "Why Shop Nutrition Faktory",
+            "link": "https://nutritionfaktory.com/pages/why-shop-at-nutrition-faktory",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#f2f2f2",
+            "color_text": "#000000",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        }
+      },
+      "block_order": [
+        "image_qVJh8e"
+      ],
+      "settings": {
+        "container": "full-width",
+        "block_spacing": 0,
+        "image_ratio": "4:3",
+        "block_layout": "1/2",
+        "block_align": "right",
+        "vertical_align": "middle",
+        "heading_size": 5,
+        "link_style": "primary",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_grid_T7jteU": {
+      "type": "section-image-grid",
+      "blocks": {
+        "image_mYdqGp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Mike_c6992346-403b-4e60-8e08-33d57b043b2c.jpg",
+            "text_alignment": "bottom",
+            "text_border_color": false,
+            "title": "",
+            "text": "",
+            "link": ""
+          }
+        },
+        "text_UWXNEV": {
+          "type": "text",
+          "settings": {
+            "bg_color": "#f0f0f0",
+            "text_color": "dark",
+            "text_heading_color": false,
+            "text_border_color": false,
+            "title": "Why Nutrition Faktory?",
+            "text": "<p>I’m Michael Bires, the founder of Nutrition Factory. I started Nutrition Factory with one goal in mind - give customers the best experience they’ve ever had at a nutrition store!</p>",
+            "link_text": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mYdqGp",
+        "text_UWXNEV"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured": true,
+        "height": "small",
+        "width": "full",
+        "button_style": "hollow",
+        "overlay_strength": 10,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_text_banner_8fgeQd": {
+      "type": "section-image-text-banner",
+      "blocks": {
+        "text_YWQE9b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Why Shop Nutrition Faktory?</p>",
+            "text_size": 6,
+            "text_width": 65,
+            "text_size_mobile": 3,
+            "text_style": "heading"
+          }
+        },
+        "text_4pPYW8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I’m Michael Bires, the founder of Nutrition Factory. I started Nutrition Factory with one goal in mind - give customers the best experience they’ve ever had at a nutrition store!</p>",
+            "text_size": 3,
+            "text_width": 40,
+            "text_size_mobile": 3,
+            "text_style": "body"
+          }
+        },
+        "link_PA78gk": {
+          "type": "link",
+          "settings": {
+            "link_title": "Learn more",
+            "link": "",
+            "link_style": "c-btn c-btn--hollow"
+          }
+        }
+      },
+      "block_order": [
+        "text_YWQE9b",
+        "text_4pPYW8",
+        "link_PA78gk"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "large",
+        "section_height_mobile": "medium",
+        "section_width": "full",
+        "content_alignment": "right",
+        "content_color": "#ffffff",
+        "content_heading_color": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "bg_image": "shopify://shop_images/Mike_c6992346-403b-4e60-8e08-33d57b043b2c.jpg",
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "section-bottom-margin": false
+      }
+    },
+    "section_collection_list_dMWUFz": {
+      "type": "section-collection-list",
+      "blocks": {
+        "collection_MBDzx9": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-protein",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_KMbbcL": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-pre-workouts",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_ihBGFw": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-creatines",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_JmPWt7": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-aminos",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_CwFaWL": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-fat-burners",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_8zgrjH": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-test-boosters",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_Xt7wrA": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-pump-products",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_J7nPYH": {
+          "type": "collection",
+          "settings": {
+            "collection": "top-10-fruits-veggies",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_MBDzx9",
+        "collection_KMbbcL",
+        "collection_ihBGFw",
+        "collection_JmPWt7",
+        "collection_CwFaWL",
+        "collection_8zgrjH",
+        "collection_Xt7wrA",
+        "collection_J7nPYH"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "divider": false,
+        "heading_alignment": "center",
+        "section_width": "wide",
+        "grid": 6,
+        "spacing": 5,
+        "enable_carousel_desktop": true,
+        "enable_carousel_mobile": true,
+        "title_size": 1,
+        "image_ratio": "1:1",
+        "button_style": "link link--arrow",
+        "alignment": "bottom-center",
+        "text_alignment": "center",
+        "show_content_below_image": true,
+        "visibility_heading": false,
+        "visibility_border": true,
+        "visibility_count": false,
+        "visibility_description": false,
+        "visibility_button": false,
+        "hover_options": "hover-off",
+        "color_text": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_strength": 0,
+        "color_default_heading": false,
+        "color_default_border": true,
+        "link_title": "View all",
+        "link": "",
+        "section_link_style": "link link--arrow",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "section_announcement_bar_3irbYK": {
+      "type": "section-announcement-bar",
+      "blocks": {
+        "announcement_YjGdyA": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-delivery-truck-3",
+            "svg-code": "",
+            "text": "Orders Placed Before 2pm CT Ship Same Day",
+            "text_link": "",
+            "link": ""
+          }
+        },
+        "announcement_bjPD7w": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-currency-dollar-circle",
+            "svg-code": "",
+            "text": "Lowest Prices Guaranteed",
+            "text_link": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_YjGdyA",
+        "announcement_bjPD7w"
+      ],
+      "settings": {
+        "divider_top": false,
+        "divider_bottom": false,
+        "text_size_desktop": 10,
+        "text_size_mobile": 2,
+        "text_style": "body",
+        "message_color_bg": "#f2f2f2",
+        "message_color_text": "#111212",
+        "text_letter_spacing": 0,
+        "text_bold": false,
+        "text_capitalize": false,
+        "close_icon": false,
+        "carousel_desktop": true,
+        "auto_carousel": true,
+        "carousel_speed": 6,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_logo_list_pbtVP7": {
+      "type": "section-logo-list",
+      "blocks": {
+        "image_q3HeK8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Axe-and-Sledge_400x400_a131f391-cc84-4eb8-b5ba-e44e91ffbc3a.webp",
+            "link": "shopify://collections/axe-sledge"
+          }
+        },
+        "image_ariKK4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Transparent-Labs_400x400_08bb7e12-1e61-41da-a284-1cf10beed7ac.webp",
+            "link": "shopify://collections/transparent-labs"
+          }
+        },
+        "image_CMgaBC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MuscleSport_400x400_c211a069-7d57-48c6-84d8-d8781758b26e.webp",
+            "link": "shopify://collections/musclesport"
+          }
+        },
+        "image_H4drUC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ryse_400x400_e149471e-87c7-4ad3-aa83-4acea18c5aac.webp",
+            "link": "shopify://collections/ryse"
+          }
+        },
+        "image_6Jxf34": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/raw_nutrition-01_78504e6b-69e2-46f9-84ee-e450fa0eb17c.webp",
+            "link": "shopify://collections/raw-nutrition"
+          }
+        },
+        "image_pzAzGB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ghost-Brand-Cover_800x800_3fc842da-1191-4448-8633-888b032a8adf.jpg",
+            "link": "shopify://collections/ghost"
+          }
+        },
+        "image_UUMKjX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Panda-Supps_400x400_63f31e11-9b3d-4ae1-bb47-e8a54a30c625.webp",
+            "link": "shopify://collections/panda-supplements"
+          }
+        },
+        "image_fByEUW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Blackstone-Labs_400x400_c6aad5b3-67c6-48da-96bb-e1dccdcc721b.webp",
+            "link": "shopify://collections/blackstone-labs"
+          }
+        }
+      },
+      "block_order": [
+        "image_q3HeK8",
+        "image_ariKK4",
+        "image_CMgaBC",
+        "image_H4drUC",
+        "image_6Jxf34",
+        "image_pzAzGB",
+        "image_UUMKjX",
+        "image_fByEUW"
+      ],
+      "settings": {
+        "title": "Top Selling Brands",
+        "desc": "",
+        "grid": 4,
+        "style_desktop": "grid",
+        "style_mobile": "grid",
+        "link_title": "Shop All Brands",
+        "link": "https://nutritionfaktory.com/pages/brands",
+        "bg_color": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_rich_text_7rizdw": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "Customer Reviews",
+        "text": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "1738213714a3f8f5d9": {
+      "type": "apps",
+      "blocks": {
+        "okendo_reviews_carousel_BRgW76": {
+          "type": "shopify://apps/okendo/blocks/reviews-carousel/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "show_heading": false,
+            "heading": "",
+            "badge_link": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "okendo_reviews_carousel_BRgW76"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "section_testimonials_6WwadD": {
+      "type": "section-testimonials",
+      "blocks": {
+        "text_yrUQb8": {
+          "type": "text",
+          "settings": {
+            "media": "quote",
+            "svg-code": "",
+            "image_round": true,
+            "text": "<p>Off to a great start, first order was delivered in a timely manner and correctly. That is more than I can say for some other places. I will be ordering from Nutrition Faktory again!</p>",
+            "name": "R Craig",
+            "source": ""
+          }
+        },
+        "text_t6dDaz": {
+          "type": "text",
+          "settings": {
+            "media": "quote",
+            "svg-code": "",
+            "image_round": true,
+            "text": "<p>I have made multiple orders with this company and all have worked out well. Fast and timely shipping. Appreciate you!</p>",
+            "name": "M Moser",
+            "source": ""
+          }
+        },
+        "text_jKAEgg": {
+          "type": "text",
+          "settings": {
+            "media": "quote",
+            "svg-code": "",
+            "image_round": true,
+            "text": "<p>Felt good when getting confirmations & updates of my order, super prompt. I’m happy with the quality of all my workout supplements I bought. Thanks.</p>",
+            "name": "C Nicholson",
+            "source": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_yrUQb8",
+        "text_t6dDaz",
+        "text_jKAEgg"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "From our customers",
+        "style_desktop": "grid",
+        "style_mobile": "carousel",
+        "link_title": "Shop now",
+        "link": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_blog_B4JkDc": {
+      "type": "section-blog",
+      "custom_css": [
+        ".blog__title {font-size: 20px !important;}"
+      ],
+      "settings": {
+        "title": "Latest Articles",
+        "blog": "news",
+        "post_limit": 3,
+        "grid": 3,
+        "section_width": "large",
+        "divider": false,
+        "link_title": "View All Articles",
+        "link": "https://nutritionfaktory.com/blogs/news",
+        "blog_image_ratio": "16:9",
+        "blog_show_tags": false,
+        "blog_show_date": false,
+        "blog_show_read_more": true,
+        "blog_show_excerpt": false,
+        "padding_top": 45,
+        "padding_bottom": 0
+      }
+    },
+    "section_rich_text_CwGFJi": {
+      "type": "section-rich-text",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "section_title": "Get Faktory Featured",
+        "text": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_liquid_itMbye": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"yotpo yotpo-pictures-widget\" data-gallery-id=\"637d5496d30dd23f9b85efa5\"></div>"
+      }
+    }
+  },
+  "order": [
+    "sl_image_hero_1_1_4YLBxp",
+    "sl_image_hero_1_1_jiW6Fh",
+    "section_image_slideshow_EPaRAn",
+    "sl_image_hero_1_1_xxPfUJ",
+    "section_image_slideshow_xwqNPV",
+    "section_multi_column_images_iJTTHn",
+    "section_multi_column_images_CnEbLp",
+    "section_collection_UjyWJC",
+    "section_image_with_text_gKGkwz",
+    "section_image_grid_T7jteU",
+    "section_image_text_banner_8fgeQd",
+    "section_collection_list_dMWUFz",
+    "section_announcement_bar_3irbYK",
+    "section_logo_list_pbtVP7",
+    "section_rich_text_7rizdw",
+    "1738213714a3f8f5d9",
+    "section_testimonials_6WwadD",
+    "section_blog_B4JkDc",
+    "section_rich_text_CwGFJi",
+    "section_liquid_itMbye"
+  ]
+}

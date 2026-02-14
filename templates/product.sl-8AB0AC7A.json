@@ -1,0 +1,356 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": 2,
+            "title_size_mobile": 3
+          }
+        },
+        "more_from_vendor_4pB4Jy": {
+          "type": "more_from_vendor",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "emphasize": false,
+            "price_label_discount": true,
+            "price_label_discount_type": "currency",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "inventory_notice_wrwkF8": {
+          "type": "inventory_notice",
+          "settings": {
+            "inventory_limit": 3,
+            "align": "left",
+            "show_qty": false
+          }
+        },
+        "db48bf56-e904-4604-9f21-89d04e9bf249": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "column": "primary",
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "dropdowns",
+            "popup_enable": true,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector_CeeLNN": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "recharge_subscriptions_subscription_widget_fB7Xpn": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "buy_buttons_Qnk3Xj": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_gift_card_recipient": true,
+            "enable_payment_button": false
+          }
+        },
+        "bundle_and_save_KRbJcy": {
+          "type": "bundle-and-save",
+          "settings": {
+            "column": "primary",
+            "title": "Bundle & Save",
+            "icon": "none",
+            "icon_size": 2,
+            "color_icon": "#212121",
+            "svg-code": "",
+            "product": "{{ product.metafields.custom.buy_more_save_more.value }}",
+            "open": true
+          }
+        },
+        "text_ExcWc3": {
+          "type": "text",
+          "settings": {
+            "column": "primary",
+            "title": "What You Need To Know",
+            "style": "h3",
+            "text": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "column": "primary",
+            "title": "Description",
+            "description_collapsible_tab": true,
+            "open": false,
+            "icon": "none",
+            "icon_size": 2,
+            "color_icon": "#212121",
+            "svg-code": ""
+          }
+        },
+        "nutrition_info_text_FXpMQ7": {
+          "type": "nutrition-info-text",
+          "settings": {
+            "column": "primary",
+            "title": "Nutrition info",
+            "icon": "none",
+            "icon_size": 2,
+            "color_icon": "#212121",
+            "svg-code": "",
+            "text": "<p>{{ product.metafields.custom.nutrition_info | metafield_tag }}</p>",
+            "open": false
+          }
+        },
+        "nutrition_info_photo_TdJfU8": {
+          "type": "nutrition-info-photo",
+          "settings": {
+            "column": "primary",
+            "title": "Nutrition info",
+            "icon": "none",
+            "icon_size": 2,
+            "color_icon": "#212121",
+            "svg-code": "",
+            "image": "{{ product.metafields.custom.nutrition_information_photo_.value }}",
+            "image_width": 1000,
+            "align": "center",
+            "link": "",
+            "open": false
+          }
+        },
+        "directions_436k8c": {
+          "type": "directions",
+          "settings": {
+            "column": "primary",
+            "title": "Directions",
+            "icon": "none",
+            "icon_size": 2,
+            "color_icon": "#212121",
+            "svg-code": "",
+            "text": "<p>{{ product.metafields.custom.directions | metafield_tag }}</p>",
+            "open": false
+          }
+        },
+        "complementary_products_K7aaLf": {
+          "type": "complementary-products",
+          "settings": {
+            "heading": "Goes well with",
+            "heading_size": 3,
+            "display_collapsible_tab": true,
+            "collapsible_tab_open": true,
+            "product_list_limit": 10,
+            "image_size": "1:1",
+            "image_fit": true,
+            "hide_labels": true,
+            "enable_quick_shop": true
+          }
+        },
+        "custom_liquid_EmV7rF": {
+          "type": "custom-liquid",
+          "disabled": true,
+          "settings": {
+            "column": "primary",
+            "custom_liquid": "{% comment %}\n  The following CSS code defines the flash animation and centers the text.\n{% endcomment %}\n<style>\n  .flash-message {\n    font-size: 16px;\n    padding: 0px 0;\n    border-radius: 5px;\n    color: #000;\n    animation: flash 2s infinite alternate; /* Flash animation */\n    text-align: center; /* Center the text */\n  }\n\n  @keyframes flash {\n    0% {\n      color: #000; /* Start with black text */\n    }\n    100% {\n      color: #00B900; /* End with green text */\n    }\n  }\n</style>\n\n{% comment %}\n  The following HTML code creates the flash message.\n{% endcomment %}\n<div class=\"flash-message\">Add to cart for sale price</div>"
+          }
+        },
+        "custom_liquid_Qazb7d": {
+          "type": "custom-liquid",
+          "disabled": true,
+          "settings": {
+            "column": "primary",
+            "custom_liquid": "<button class=\"custom-button\">Add to Cart for Sale Price</button>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "more_from_vendor_4pB4Jy",
+        "price",
+        "inventory_notice_wrwkF8",
+        "db48bf56-e904-4604-9f21-89d04e9bf249",
+        "variant_picker",
+        "quantity_selector_CeeLNN",
+        "recharge_subscriptions_subscription_widget_fB7Xpn",
+        "buy_buttons_Qnk3Xj",
+        "bundle_and_save_KRbJcy",
+        "text_ExcWc3",
+        "description",
+        "nutrition_info_text_FXpMQ7",
+        "nutrition_info_photo_TdJfU8",
+        "directions_436k8c",
+        "complementary_products_K7aaLf",
+        "custom_liquid_EmV7rF",
+        "custom_liquid_Qazb7d"
+      ],
+      "custom_css": [
+        ".custom-button {background-color: #ffffff; /* White background */ border: 2px solid #00b900; /* Green border */ color: #00b900; /* Green text */ border-radius: 20px; /* Rounded edges */ padding: 10px 20px; /* Adjust padding as needed */ cursor: pointer; /* Show pointer on hover */ font-size: 12px; /* Adjust font size as needed */ display: block; /* Make the button a block-level element */ margin: 0 auto; /* Center the button horizontally */ text-align: center; /* Center the text inside the button */}"
+      ],
+      "settings": {
+        "style": "clean",
+        "style_clean_mobile": true,
+        "layout-order": "media-left",
+        "enable_sticky_content": false,
+        "container": "large",
+        "show_breadcrumbs": true,
+        "breadcrumbs_align": "center",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_gallery_arrows": true,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false
+      }
+    },
+    "section_announcement_bar_VFBDGY": {
+      "type": "section-announcement-bar",
+      "blocks": {
+        "announcement_hx8iYE": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-stopwatch",
+            "svg-code": "",
+            "text": "Order Before 2pm for Same Day Shipping.",
+            "text_link": "",
+            "link": ""
+          }
+        },
+        "announcement_mnHXUf": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-conversation-chat-text",
+            "svg-code": "",
+            "text": "Questions? Chat Live with our Product Specialist.",
+            "text_link": "",
+            "link": ""
+          }
+        },
+        "announcement_mQf4Rx": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-delivery-truck-3",
+            "svg-code": "",
+            "text": "Fast Shipping (Normally 2-3 Days).",
+            "text_link": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_hx8iYE",
+        "announcement_mnHXUf",
+        "announcement_mQf4Rx"
+      ],
+      "settings": {
+        "divider_top": false,
+        "divider_bottom": false,
+        "text_size_desktop": 5,
+        "text_size_mobile": 2,
+        "text_style": "body",
+        "message_color_bg": "#00b900",
+        "message_color_text": "#ffffff",
+        "text_letter_spacing": 1,
+        "text_bold": false,
+        "text_capitalize": false,
+        "close_icon": false,
+        "carousel_desktop": true,
+        "auto_carousel": true,
+        "carousel_speed": 8,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "1709828370ff1cfcb8": {
+      "type": "apps",
+      "blocks": {
+        "yotpo_product_reviews_ugc_reviews_BnP3KT": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "yotpo_product_reviews_ugc_reviews_BnP3KT"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "section_collection_yXpVQH": {
+      "type": "section-collection",
+      "blocks": {
+        "collection_mkjjUt": {
+          "type": "collection",
+          "settings": {
+            "heading": "",
+            "heading_color": "rgba(0,0,0,0)",
+            "collection": "{{ product.metafields.custom.more_from_vendor.value }}",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_mkjjUt"
+      ],
+      "settings": {
+        "title": "More From {{ product.vendor }}",
+        "text_alignment": "center",
+        "section_width": "large",
+        "link_title": "View all",
+        "link": "",
+        "divider": false,
+        "maximum_products": 18,
+        "grid": 3,
+        "enable_carousel_desktop": true,
+        "grid_mobile": "1",
+        "enable_carousel_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "section-product-recommendations",
+      "settings": {
+        "related_title": "You may also like",
+        "section_width": "large",
+        "maximum_products": 10,
+        "grid": 3,
+        "grid_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_announcement_bar_VFBDGY",
+    "1709828370ff1cfcb8",
+    "section_collection_yXpVQH",
+    "product-recommendations"
+  ]
+}

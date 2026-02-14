@@ -1,0 +1,11 @@
+.pm-price.pm-search .price {
+  font-size:inherit;
+}
+
+.pm-price.pm-search .price__number--sale > .money {
+  color: #ba4444 !important;
+}
+
+.pm-price-collection-selector .money, .pm-price-collection-selector .price__number {
+  font-size: 16px !important;
+}

@@ -1,0 +1,210 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "16790656624fe036d0": {
+      "type": "apps",
+      "blocks": {
+        "f72e35a1-2006-494a-9c0c-f6e0e42996d9": {
+          "type": "shopify://apps/wonderment/blocks/wonderBlock/89d63369-6ee7-4097-ac41-8229c6f90001",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "f72e35a1-2006-494a-9c0c-f6e0e42996d9"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "section_multi_column_images_PCVCzT": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_UGyR8j": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://nutritionfaktory.com/pages/download-nutrition-faktory-app?_pos=1&_psq=download+app&_ss=e&_v=1.0",
+            "image": "shopify://shop_images/NF-App-Tracking-Page_WBD_01.png",
+            "title": "",
+            "sub_title": "",
+            "desc": "<p><a href=\"https://apps.apple.com/us/app/nutrition-faktory/id1622404300\" target=\"_blank\" title=\"Download the Nutrition Faktory App on Apple Store\">Apple App Store</a>        <a href=\"https://play.google.com/store/apps/details?id=co.tapcart.app.id_GlUftJQ3cr&hl=en_US&pli=1\" target=\"_blank\" title=\"Download Nutrition Faktory App On Google Play Store\">Google Play Store</a></p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_PbcPRQ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "image_link": "",
+            "title": "Column heading",
+            "sub_title": "",
+            "desc": "<p>Describe the main features of your brand or products using a few lines of text along with images or icons.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_UGyR8j",
+        "text_PbcPRQ"
+      ],
+      "disabled": true,
+      "name": "App Promo (Small Banner)",
+      "settings": {
+        "show_on_device": "show-all-devices",
+        "title": "",
+        "container": "full",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 1,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_slideshow_VwbC3T": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_bLiTjc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NF-App-Tracking-Page_WBD_05.jpg",
+            "link": "https://nutritionfaktory.com/pages/download-nutrition-faktory-app?_pos=1&_psq=download&_ss=e&_v=1.0"
+          }
+        }
+      },
+      "block_order": [
+        "image_bLiTjc"
+      ],
+      "disabled": true,
+      "name": "Image slideshow",
+      "settings": {
+        "show_on_device": "show-all-devices",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "contained",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_custom_6qt9zA": {
+      "type": "section-custom",
+      "blocks": {
+        "text_VdHAPX": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "Text",
+            "text": "<p>Promote your brand by using a powerful combination of buttons, custom text, page content and images.</p>",
+            "link_title": "Learn more",
+            "link": "",
+            "align": "center",
+            "width": "1/2"
+          }
+        },
+        "image_WgTedN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NF-App-Tracking-Page_WBD_05.jpg",
+            "link": "https://nutritionfaktory.com/pages/download-nutrition-faktory-app?_pos=1&_psq=download&_ss=e&_v=1.0",
+            "width": "2/3"
+          }
+        },
+        "spacer_am4fHk": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": "none"
+          }
+        },
+        "button_d8BmbF": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "title": "Button",
+            "link": "",
+            "color": "primary",
+            "size": "big",
+            "width": "1/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_VdHAPX",
+        "image_WgTedN",
+        "spacer_am4fHk",
+        "button_d8BmbF"
+      ],
+      "name": "Custom content",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "rebuy": {
+      "type": "wonderment-rebuy",
+      "disabled": true,
+      "settings": {
+        "rebuy-widget-id": "4683"
+      }
+    },
+    "fairing": {
+      "type": "wonderment-fairing",
+      "disabled": true,
+      "settings": {
+        "fairing-key": "",
+        "fairing-padding-tb": 10,
+        "fairing-padding-lr": 10,
+        "fairing-border-color": "#000000",
+        "fairing-border-size": 0,
+        "fairing-border-radius": 0,
+        "fairing-title-text-align": "center",
+        "fairing-title-margin-top": 20,
+        "fairing-title-margin-bottom": 20,
+        "fairing-title-max-width": 100,
+        "fairing-response-border-color": "#000000",
+        "fairing-response-border-size": 0,
+        "fairing-response-border-radius": 0,
+        "fairing-response-padding": 5,
+        "fairing-responses-margin": 20
+      }
+    }
+  },
+  "order": [
+    "16790656624fe036d0",
+    "section_multi_column_images_PCVCzT",
+    "section_image_slideshow_VwbC3T",
+    "section_custom_6qt9zA",
+    "rebuy",
+    "fairing"
+  ]
+}

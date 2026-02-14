@@ -1,0 +1,407 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_width": "large"
+      }
+    },
+    "section_image_slideshow_qTVeGQ": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_ekniRh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Local-Stores-BOGO40_BLP_2400x500_01.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ekniRh"
+      ],
+      "settings": {
+        "show_on_device": "desktop--device",
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_slideshow_ymjrb6": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_YDVcrN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Local-Stores-BOGO40_BLPM_1200x800_01.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YDVcrN"
+      ],
+      "settings": {
+        "show_on_device": "mobile--device",
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_map_p3jtRJ": {
+      "type": "section-map",
+      "blocks": {
+        "map_nqALAT": {
+          "type": "map",
+          "settings": {
+            "title": "Nutrition Faktory - Jackson, TN",
+            "desc": "<p>1296 Union University Dr.Jackson, Tennessee 38305<br/><a href=\"https://www.google.com/maps/dir//1296+Union+University+Dr+Suite+D,+Jackson,+TN+38305/@35.6835261,-88.9435491,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x887ea7befde19271:0x2e60739ab262a99c!2m2!1d-88.861149!2d35.6835532?entry=ttu\" target=\"_blank\" title=\"Directions\">Directions</a></p>",
+            "sub_desc": "<p>Monday-Saturday 9AM-8PM<br/>Sunday 11PM-6PM<br/><strong>731-300-0598</strong></p>",
+            "address": "1296 Union University Dr.Jackson, Tennessee 38305",
+            "map_image": "shopify://shop_images/Jackson-Store-1200x900_WB_02.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "map_nqALAT"
+      ],
+      "custom_css": [
+        ".home-map__title-text {font-size: 32px;}"
+      ],
+      "settings": {
+        "show_directions_btn": true,
+        "bg_color": "#f2f2f2",
+        "google_api_key": "",
+        "map_style": "light",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "ss_video_with_text_TLRtqE": {
+      "type": "ss-video-with-text",
+      "blocks": {
+        "heading_DLph9E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buy 1 Get 1 40% off Sale at Your Local Nutrition Faktory!",
+            "heading_custom": false,
+            "heading_font": "avenir_next_n4",
+            "header_size": 32,
+            "font_weight": "600",
+            "heading_height": 130,
+            "heading_mt": 20,
+            "heading_color": "#111212"
+          }
+        },
+        "text_UEKGEF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Get ready to save big at your local Nutrition Faktory! For a limited time, <strong>mention 'Local BOGO 40' at checkout,</strong> and when you buy one item, you'll get the second for 40% off! Don’t miss out on this exciting deal—stock up and save today!</p><p></p>",
+            "text_custom": true,
+            "text_font": "roboto_n4",
+            "text_size": 20,
+            "text_height": 130,
+            "text_mt": 20,
+            "text_color": "#000000"
+          }
+        },
+        "caption_zprPd3": {
+          "type": "caption",
+          "settings": {
+            "caption": "Offer Available In-Store Only",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DLph9E",
+        "text_UEKGEF",
+        "caption_zprPd3"
+      ],
+      "settings": {
+        "media": "video",
+        "image_height": "small",
+        "desktop_image_width": "50",
+        "image_radius": 0,
+        "layout": "image_first",
+        "video_url": "https://www.youtube.com/watch?v=uOsWuNDpDM8",
+        "poster": "shopify://shop_images/Mike-Customer-Service_01.jpg",
+        "icon_play": "shopify://shop_images/Play-Button_03.png",
+        "icon_play_size": 90,
+        "video_controls": true,
+        "video_autoplay": false,
+        "video_loop": false,
+        "desktop_content_alignment": "center",
+        "content_padding_top": 12,
+        "content_padding_bottom": 36,
+        "content_padding_horizontal": 5,
+        "content_padding_horizontal_mobile": 1.5,
+        "content_spacing": 20,
+        "mobile_content_alignment": "center",
+        "wrapper_border": false,
+        "content_border_thickness": 1,
+        "border_radius": 20,
+        "padding_inside": 20,
+        "shadow": false,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#00b900",
+        "content_background_color": "#ffffff",
+        "content_border_color": "#d3d3d3",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "content_layout": false,
+        "content_width": 100,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_image_with_text_overlap_8HgKer": {
+      "type": "section-image-with-text-overlap",
+      "blocks": {
+        "image_pYjqgW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Jackson-Store-1200x900_WB_01.jpg",
+            "title": "Lowest Prices on Your Favorite Brands!",
+            "desc": "<p>Find your go-to brands like Ryse, Axe & Sledge, and Transparent Labs at prices you'll love. <a href=\"#shopify-section-template--22419872776385__section_map_p3jtRJ\" title=\"#shopify-section-template--22419872776385__section_map_p3jtRJ\">Visit us today </a>and take advantage of incredible deals on the products you trust.</p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "#f2f2f2",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        },
+        "image_3BbBW3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Store-BOGO40-Sale-Store-Banners-1200x900_05.jpg",
+            "title": "Fresh Meals & Energy Drinks",
+            "desc": "<p>Fuel your day with our wide selection of frozen meals and energy drinks! Whether you're looking for a quick, healthy meal on the go or a boost of energy to power through your workout, we've got you covered. </p>",
+            "horizontal_align": "left",
+            "link_title": "",
+            "link": "",
+            "bg_color_block": "rgba(0,0,0,0)",
+            "bg_color_content": "#ffffff",
+            "color_text": "#212121",
+            "text_heading_color": false,
+            "text_border_color": true
+          }
+        }
+      },
+      "block_order": [
+        "image_pYjqgW",
+        "image_3BbBW3"
+      ],
+      "settings": {
+        "container": "large",
+        "block_spacing": 5,
+        "image_ratio": "4:3",
+        "block_layout": "2/3",
+        "block_align": "right",
+        "heading_size": 3,
+        "link_style": "hollow",
+        "text_style": "solid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_multi_column_images_XeYiAf": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_jKRppY": {
+          "type": "text",
+          "settings": {
+            "image_link": "",
+            "image": "shopify://shop_images/Jackson-Reviews_001_480x_a3701a94-83ec-4572-92ad-b3c7222ee16f.webp",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_wzzDe8": {
+          "type": "text",
+          "settings": {
+            "image_link": "",
+            "image": "shopify://shop_images/Jackson-Reviews_002_480x_be492675-15ee-453a-9765-b2a6436f228e.webp",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_ejVHXk": {
+          "type": "text",
+          "settings": {
+            "image_link": "",
+            "image": "shopify://shop_images/Jackson-Reviews_003_480x_963f7afb-d986-4350-9c14-493d1b604b1e.webp",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_jKRppY",
+        "text_wzzDe8",
+        "text_ejVHXk"
+      ],
+      "settings": {
+        "show_on_device": "show-all-devices",
+        "title": "What Our Customers Say",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "natural",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel",
+        "padding_top": 60,
+        "padding_bottom": 21,
+        "section-bottom-margin": false
+      }
+    },
+    "section_rich_text_yfbVLD": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "All Your Favorite Brands",
+        "text": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_image_slideshow_aQDU3n": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_U9iBce": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Brands_Banner_v2.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_U9iBce"
+      ],
+      "settings": {
+        "show_on_device": "show-all-devices",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_video_NgG8gY": {
+      "type": "section-video",
+      "blocks": {
+        "video_pPXKHa": {
+          "type": "video",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=uOsWuNDpDM8",
+            "video_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_pPXKHa"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Save at Nutrition Faktory Today!",
+        "desc": "",
+        "link_title": "More videos",
+        "link": "",
+        "overlay_strength": 20,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_rich_text_nMjheb": {
+      "type": "section-rich-text",
+      "settings": {
+        "full_width": false,
+        "section_title": "Don't Forget!",
+        "text": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_liquid_RcHqYm": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align: center; margin-bottom: 60px;\">\n    <h4 style=\"background-color: #f1f1f1; border: 1px solid #cccccc; border-radius: 10px; padding: 10px; display: inline-block;\">\n        For a limited time, mention \n        <span style=\"background-color: #abfecc; border: 1px dashed #cccccc; padding: 5px; border-radius: 5px;\">Local BOGO 40</span> \n        at checkout, and when you buy one item, you'll get the second for 40% off!\n    </h4>\n</div>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_image_slideshow_qTVeGQ",
+    "section_image_slideshow_ymjrb6",
+    "section_map_p3jtRJ",
+    "ss_video_with_text_TLRtqE",
+    "section_image_with_text_overlap_8HgKer",
+    "section_multi_column_images_XeYiAf",
+    "section_rich_text_yfbVLD",
+    "section_image_slideshow_aQDU3n",
+    "section_video_NgG8gY",
+    "section_rich_text_nMjheb",
+    "section_liquid_RcHqYm"
+  ]
+}

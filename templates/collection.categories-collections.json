@@ -1,0 +1,433 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_image_slideshow_3bJEaB": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_ycm7i6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Project-AD-BOGO40_BLP_2400x500_01.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ycm7i6"
+      ],
+      "settings": {
+        "show_on_device": "desktop--device",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_slideshow_9wAX3T": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_jYbkej": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Project-AD-BOGO40_BLPM_1200x800_01.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_jYbkej"
+      ],
+      "settings": {
+        "show_on_device": "mobile--device",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "ss_countdown_bar_iq3pAt": {
+      "type": "ss-countdown-bar",
+      "blocks": {
+        "text_Gmc4mx": {
+          "type": "text",
+          "settings": {
+            "heading": "This Deal Ends in:",
+            "color": "#ffffff",
+            "font_size": 24
+          }
+        },
+        "timer_j3hUaM": {
+          "type": "timer",
+          "settings": {
+            "year": "2024",
+            "month": "09",
+            "day": "14",
+            "hour": "01",
+            "minute": "00",
+            "hide_timer_on_completed": false,
+            "color": "#ffffff",
+            "font_size_number": 20,
+            "font_size_text": 10
+          }
+        }
+      },
+      "block_order": [
+        "text_Gmc4mx",
+        "timer_j3hUaM"
+      ],
+      "settings": {
+        "target_selector": "",
+        "use_cross": true,
+        "days_text": "Days",
+        "hours_text": "Hrs",
+        "mins_text": "Mins",
+        "seconds_text": "Secs",
+        "background-color": "#000000"
+      }
+    },
+    "section_rich_text_iWtEwq": {
+      "type": "section-rich-text",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "section_title": "",
+        "text": "<h2>Limited Time Only!</h2>",
+        "padding_top": 21,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_liquid_cczVy4": {
+      "type": "section-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align: center; margin-top: 30px;\">\n    <h4 style=\"background-color: #f1f1f1; border: 1px dash #cccccc; border-radius: 10px; padding: 10px; display: inline-block;\"><span style=\"font-size:26px;\">Limited Time Only!</span><br>\n       Use code:\n        <span style=\"background-color: #a53783; border: 2px dashed #333333; padding: 3px 8px 3px 8px; border-radius: 5px; color:#ffffff;\">PROJECTAD40</span> at checkout\n    </h4>\n</div>"
+      }
+    },
+    "ss_scrolling_images_MUJcTw": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_tTNAAV": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Sexual-Well-Being_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/sexual-well-being"
+          }
+        },
+        "image_xQ9X4R": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Creatine_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/creatine"
+          }
+        },
+        "image_49KKTt": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Test-Boosters_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/hormonal-support"
+          }
+        },
+        "image_zczQCQ": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Protein_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/protein"
+          }
+        },
+        "image_cEJrqY": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Joint-Support_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/joint-support"
+          }
+        },
+        "image_kzJ8xe": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Mass-Gainer_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/mass-gainer-protein"
+          }
+        },
+        "image_NMyV3A": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Muscle-Building_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/muscle-builders"
+          }
+        },
+        "image_RRRMDM": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Pre-workout_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/pre-workouts"
+          }
+        }
+      },
+      "block_order": [
+        "image_tTNAAV",
+        "image_xQ9X4R",
+        "image_49KKTt",
+        "image_zczQCQ",
+        "image_cEJrqY",
+        "image_kzJ8xe",
+        "image_NMyV3A",
+        "image_RRRMDM"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 23,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 0,
+        "slider_direction": "left",
+        "pause_hover": true,
+        "image_width_desktop": 300,
+        "image_width_mobile": 120,
+        "image_height_desktop": 400,
+        "image_height_mobile": 200,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": false,
+        "text": "",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#ffffff",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_collection_collection_list_CkQaeR": {
+      "type": "section-collection-collection-list",
+      "blocks": {
+        "collection_bMCQA9": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_1.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_FcHdAA": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_2.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_LJgeQX": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_3.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_hgpERX": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_4.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_efb9Vd": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_5.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_cJbraN": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_6.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_7azagX": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_7.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_nGq4pp": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_8.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_bMCQA9",
+        "collection_FcHdAA",
+        "collection_LJgeQX",
+        "collection_hgpERX",
+        "collection_efb9Vd",
+        "collection_cJbraN",
+        "collection_7azagX",
+        "collection_nGq4pp"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "divider": false,
+        "heading_alignment": "center",
+        "section_width": "large",
+        "grid": 5,
+        "spacing": 3,
+        "enable_carousel_desktop": true,
+        "enable_carousel_mobile": true,
+        "title_size": 1,
+        "image_ratio": "1:1",
+        "button_style": "c-btn c-btn--hollow",
+        "alignment": "middle-center",
+        "text_alignment": "center",
+        "show_content_below_image": true,
+        "visibility_heading": true,
+        "visibility_border": true,
+        "visibility_count": false,
+        "visibility_description": false,
+        "visibility_button": false,
+        "hover_options": "hover-button",
+        "color_text": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_strength": 10,
+        "color_default_heading": false,
+        "color_default_border": true,
+        "link_title": "View all",
+        "link": "",
+        "section_link_style": "c-btn c-btn--primary",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": true,
+            "filter_visibility": "none"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "custom_css": [
+        ".price-note .label__text {font-size: 13px !important; background-color: #e7f4eb; border: 1px solid #9ee250; border-radius: 5px; padding: 3px; display: inline-block; color: #111111;}"
+      ],
+      "settings": {
+        "grid": 4,
+        "grid_mobile": "2",
+        "rows": 6,
+        "show_count": false,
+        "sort_enable": true,
+        "filter_style": "sidebar"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "center_title": true,
+        "show_collection_image": false,
+        "collection_image_height": "4:1",
+        "collection_image_mobile_height": false,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    }
+  },
+  "order": [
+    "section_image_slideshow_3bJEaB",
+    "section_image_slideshow_9wAX3T",
+    "ss_countdown_bar_iq3pAt",
+    "section_rich_text_iWtEwq",
+    "section_liquid_cczVy4",
+    "ss_scrolling_images_MUJcTw",
+    "section_collection_collection_list_CkQaeR",
+    "product-grid",
+    "banner"
+  ]
+}

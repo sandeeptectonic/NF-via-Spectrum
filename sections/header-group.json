@@ -1,0 +1,307 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "Header group",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "section-announcement-bar",
+      "blocks": {
+        "f752cf03-1fbc-4be1-a3cc-171a071687d2": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-mobile-phone",
+            "svg-code": "",
+            "text": "Shop The App For Free Gifts",
+            "text_link": "",
+            "link": "https://nutritionfaktory.com/pages/instant-rewards"
+          }
+        },
+        "announcement_6PD4Qi": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-delivery-truck-3",
+            "svg-code": "",
+            "text": "Free Shipping Over $99 (Excludes Snacks & Drinks)",
+            "text_link": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "f752cf03-1fbc-4be1-a3cc-171a071687d2",
+        "announcement_6PD4Qi"
+      ],
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "divider_top": false,
+        "divider_bottom": false,
+        "text_size_desktop": 2,
+        "text_size_mobile": 2,
+        "text_style": "body",
+        "message_color_bg": "#212121",
+        "message_color_text": "#ffffff",
+        "text_letter_spacing": 0,
+        "text_bold": false,
+        "text_capitalize": false,
+        "close_icon": false,
+        "carousel_desktop": false,
+        "auto_carousel": true,
+        "carousel_speed": 8,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_announcement_bar_V9AWBW": {
+      "type": "section-announcement-bar",
+      "blocks": {
+        "announcement_HJMNL4": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-megaphone",
+            "svg-code": "",
+            "text": "Store updates and announcements",
+            "text_link": "",
+            "link": ""
+          }
+        },
+        "announcement_wmdRnw": {
+          "type": "announcement",
+          "settings": {
+            "icon": "icon-delivery-truck-3",
+            "svg-code": "",
+            "text": "Store updates and announcements",
+            "text_link": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_HJMNL4",
+        "announcement_wmdRnw"
+      ],
+      "disabled": true,
+      "settings": {
+        "divider_top": false,
+        "divider_bottom": false,
+        "text_size_desktop": 2,
+        "text_size_mobile": 2,
+        "text_style": "body",
+        "message_color_bg": "#212121",
+        "message_color_text": "#ffffff",
+        "text_letter_spacing": 0,
+        "text_bold": false,
+        "text_capitalize": false,
+        "close_icon": false,
+        "carousel_desktop": false,
+        "auto_carousel": true,
+        "carousel_speed": 8,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "image_menu_R9rrEy": {
+          "type": "image-menu",
+          "disabled": true,
+          "settings": {
+            "triggers": "Shop",
+            "layout_width": "default",
+            "layout_alignment": "center",
+            "layout_content_priority": "additional_content",
+            "enable_navigations": false,
+            "linklist_width": 20,
+            "links_per_row": 1,
+            "links_columns_spacing": 18,
+            "linklist_alignment": "center",
+            "enable_additional_content": true,
+            "additional_content_title": "",
+            "additional_content_width": 100,
+            "additional_content_per_row": 6,
+            "additional_content_spacing": 30,
+            "additional_content_alignment": "center",
+            "image_ratio": "1:1",
+            "sidebar_additional_content_per_row": "2",
+            "sidebar_additional_content_enable_carousel": false,
+            "image_1": "shopify://shop_images/Pre-Workouts_360x_c52556fe-3eb4-4131-b81c-c63965fbec75.webp",
+            "image_1_title": "Pre Workouts",
+            "image_1_text": "",
+            "image_1_link": "shopify://collections/pre-workouts",
+            "image_2": "shopify://shop_images/Protein_360x_f984cda8-8999-4906-a2f9-1846d3218011.webp",
+            "image_2_title": "Protein",
+            "image_2_text": "",
+            "image_2_link": "shopify://collections/protein",
+            "image_3": "shopify://shop_images/Weight-Management_360x_4bbd5661-61d4-4253-aeb2-3bc52d2fd5ad.webp",
+            "image_3_title": "Weight Management",
+            "image_3_text": "",
+            "image_3_link": "shopify://collections/fat-burners",
+            "image_4": "shopify://shop_images/Test_Boosters_360x_a675886f-65f9-4dcb-8c9b-4865c641e547.webp",
+            "image_4_title": "Muscle Builders",
+            "image_4_text": "",
+            "image_4_link": "shopify://collections/muscle-builders",
+            "image_5": "shopify://shop_images/fit-snacks-peanut-butter.png",
+            "image_5_title": "Snacks & Drinks",
+            "image_5_text": "",
+            "image_5_link": "shopify://collections/bars-snacks",
+            "image_6": "shopify://shop_images/Greens-and-Superfoods_360x_146932de-bf49-44f7-9529-667e72a2c6da.webp",
+            "image_6_title": "Health & Wellness",
+            "image_6_text": "",
+            "image_6_link": "shopify://collections/wellness"
+          }
+        },
+        "image_menu_nVGQCe": {
+          "type": "image-menu",
+          "settings": {
+            "triggers": "",
+            "layout_width": "default",
+            "layout_alignment": "center",
+            "layout_content_priority": "navigation",
+            "enable_navigations": true,
+            "linklist_width": 60,
+            "links_per_row": 3,
+            "links_columns_spacing": 30,
+            "linklist_alignment": "left",
+            "enable_additional_content": true,
+            "additional_content_title": "",
+            "additional_content_width": 40,
+            "additional_content_per_row": 2,
+            "additional_content_spacing": 30,
+            "additional_content_alignment": "center",
+            "image_ratio": "1:1",
+            "sidebar_additional_content_per_row": "1",
+            "sidebar_additional_content_enable_carousel": true,
+            "image_1": "shopify://shop_images/Axe-n-Sledge-BOGO50_WBD_600x338_01.jpg",
+            "image_1_title": "",
+            "image_1_text": "",
+            "image_1_link": "https://nutritionfaktory.com/collections/axe-sledge",
+            "image_2_title": "",
+            "image_2_text": "",
+            "image_2_link": "",
+            "image_3_title": "",
+            "image_3_text": "",
+            "image_3_link": "",
+            "image_4_title": "",
+            "image_4_text": "",
+            "image_4_link": "",
+            "image_5_title": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_title": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_menu_R9rrEy",
+        "image_menu_nVGQCe"
+      ],
+      "custom_css": [],
+      "settings": {
+        "menu": "mega-menu",
+        "layout": "logo-left",
+        "style": "sticky",
+        "link_style": "icon",
+        "enable_chevrons": true,
+        "header_divider": false,
+        "header_bg": "#ffffff",
+        "header_text": "#111111",
+        "logo": "shopify://shop_images/NF-Primary-Logo_Green_v1.png",
+        "header_transparent": false,
+        "header_transparent_collection": false,
+        "header_transparent_divider": true,
+        "header_transparent_text": "#ffffff",
+        "special_link_triggers": "",
+        "special_link_color": "#c00000",
+        "special_link_disable_on_transparent_header": false,
+        "logo_size": 30,
+        "logo_spacing": 3,
+        "logo_size_mobile": 30,
+        "logo_spacing_mobile": 0,
+        "sidebar_main_menu": "mega-menu",
+        "sidebar_secondary_menu": "",
+        "sidebar_show_borders": true,
+        "sidebar_show_collection_images_in_submenu": false,
+        "sidebar_show_view_all_in_submenu": false,
+        "sidebar_view_all_style": "outline",
+        "sidebar_show_contact_number": true,
+        "sidebar_show_contact_email": true,
+        "sidebar_show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    },
+    "section_announcement_bar_i9yQDf": {
+      "type": "section-announcement-bar",
+      "blocks": {
+        "announcement_FkHVQH": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "svg-code": "",
+            "text": "Sitewide Savings In Cart!",
+            "text_link": "",
+            "link": "https://nutritionfaktory.com/"
+          }
+        },
+        "announcement_dY6K4K": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "icon": "icon-delivery-truck-3",
+            "svg-code": "",
+            "text": "Free Shipping on Orders Over $99 (Excludes Snacks & Drinks)",
+            "text_link": "",
+            "link": "https://nutritionfaktory.com/pages/why-shop-at-nutrition-faktory"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_FkHVQH",
+        "announcement_dY6K4K"
+      ],
+      "custom_css": [
+        ".announcement__message {padding: 8px 15px;}"
+      ],
+      "settings": {
+        "divider_top": false,
+        "divider_bottom": false,
+        "text_size_desktop": 7,
+        "text_size_mobile": 2,
+        "text_style": "heading",
+        "message_color_bg": "#00b900",
+        "message_color_text": "#ffffff",
+        "text_letter_spacing": 0,
+        "text_bold": false,
+        "text_capitalize": false,
+        "close_icon": false,
+        "carousel_desktop": false,
+        "auto_carousel": true,
+        "carousel_speed": 8,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "section_announcement_bar_V9AWBW",
+    "header",
+    "section_announcement_bar_i9yQDf"
+  ]
+}

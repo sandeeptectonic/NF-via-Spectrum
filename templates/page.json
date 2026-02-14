@@ -1,0 +1,148 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "page_width": "large"
+      }
+    },
+    "section_multi_column_images_NbytbD": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_zrYjzL": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300",
+            "image": "shopify://shop_images/Download-Apple-Store-NF-APP_02.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_GBjRmB": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://play.google.com/store/apps/details?id=co.tapcart.app.id_GlUftJQ3cr&pcampaignid=web_share",
+            "image": "shopify://shop_images/Download-Google-Play-NF-APP_02.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_zrYjzL",
+        "text_GBjRmB"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_device": "desktop--device",
+        "title": "",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 3,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "1:1",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_multi_column_images_AFw4wL": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_GBk7xR": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://apps.apple.com/us/app/nutrition-faktory/id1622404300",
+            "image": "shopify://shop_images/Download-Apple-Store-NF-APP-Button_0.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_eNPwp9": {
+          "type": "text",
+          "settings": {
+            "image_link": "https://play.google.com/store/apps/details?id=co.tapcart.app.id_GlUftJQ3cr&pcampaignid=web_share",
+            "image": "shopify://shop_images/Download-Google-Play-NF-APP-Button_01.jpg",
+            "title": "",
+            "sub_title": "",
+            "desc": "",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_GBk7xR",
+        "text_eNPwp9"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_device": "mobile--device",
+        "title": "",
+        "container": "full",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 2,
+        "spacing": 1,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 1,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": true,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "grid",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_multi_column_images_NbytbD",
+    "section_multi_column_images_AFw4wL"
+  ]
+}

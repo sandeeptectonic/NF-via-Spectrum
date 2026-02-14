@@ -1,0 +1,646 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "section_image_slideshow_3bJEaB": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_ycm7i6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Creatine-Offers_BLP_2200x500_10.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ycm7i6"
+      ],
+      "settings": {
+        "show_on_device": "desktop--device",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_image_slideshow_9wAX3T": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_jYbkej": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Creatine-Offers_BLPM_1200x800_05.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_jYbkej"
+      ],
+      "settings": {
+        "show_on_device": "mobile--device",
+        "autoplay": false,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "section_product_dh9zXx": {
+      "type": "section-product",
+      "blocks": {
+        "vendor_JPF3fK": {
+          "type": "vendor",
+          "settings": {
+            "vendor_size": 2,
+            "vendor_style": "body"
+          }
+        },
+        "title_Cbiqkr": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "price_mD4Ci8": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "spacer_j6dqht": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description_brAcPb": {
+          "type": "description",
+          "settings": {
+            "desc_text": ""
+          }
+        },
+        "variant_picker_q9A6Tp": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches-buttons",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector_TztWKp": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Ndgrbm": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor_JPF3fK",
+        "title_Cbiqkr",
+        "price_mD4Ci8",
+        "spacer_j6dqht",
+        "description_brAcPb",
+        "variant_picker_q9A6Tp",
+        "quantity_selector_TztWKp",
+        "buy_buttons_Ndgrbm"
+      ],
+      "custom_css": [
+        ".c-btn--hollow {background-color: #00b900 !important; color: #ffffff; border: 0px solid #00b900; box-shadow: inset 0 0 0 0px var(--color--text);}"
+      ],
+      "settings": {
+        "featured_product": "creatine-monohydrate-300g",
+        "content_align": "default",
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_gallery_arrows": true,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_product_j69q4W": {
+      "type": "section-product",
+      "blocks": {
+        "vendor_JtjMEx": {
+          "type": "vendor",
+          "settings": {
+            "vendor_size": 2,
+            "vendor_style": "body"
+          }
+        },
+        "title_gU9ejy": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "price_rVAPGf": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "spacer_L6mdtJ": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description_tegaJf": {
+          "type": "description",
+          "settings": {
+            "desc_text": ""
+          }
+        },
+        "variant_picker_CHYiYH": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches-buttons",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector_GfNBiX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_LnT9mz": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor_JtjMEx",
+        "title_gU9ejy",
+        "price_rVAPGf",
+        "spacer_L6mdtJ",
+        "description_tegaJf",
+        "variant_picker_CHYiYH",
+        "quantity_selector_GfNBiX",
+        "buy_buttons_LnT9mz"
+      ],
+      "custom_css": [
+        ".c-btn--hollow {background-color: #00b900 !important; color: #ffffff; border: 0px solid #00b900; box-shadow: inset 0 0 0 0px var(--color--text);}"
+      ],
+      "settings": {
+        "featured_product": "creatine-monohydrate-400grams",
+        "content_align": "reverse",
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_gallery_arrows": true,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_product_9MHPUN": {
+      "type": "section-product",
+      "blocks": {
+        "vendor_fgyYy9": {
+          "type": "vendor",
+          "settings": {
+            "vendor_size": 2,
+            "vendor_style": "body"
+          }
+        },
+        "title_mzKP9H": {
+          "type": "title",
+          "settings": {
+            "title_size": 3,
+            "title_size_mobile": 3
+          }
+        },
+        "price_aiGRwX": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "price_label_discount": true,
+            "price_label_discount_type": "text",
+            "price_label_discount_color": "#c00000"
+          }
+        },
+        "spacer_kKnByW": {
+          "type": "spacer",
+          "settings": {
+            "top": "small",
+            "bottom": "small",
+            "border": true
+          }
+        },
+        "description_aH8byC": {
+          "type": "description",
+          "settings": {
+            "desc_text": ""
+          }
+        },
+        "variant_picker_kJYJ7z": {
+          "type": "variant_picker",
+          "settings": {
+            "product_variant_style": "swatches-buttons",
+            "popup_enable": false,
+            "popup_trigger": "Size\nGröße\nTaille\nTaglia\nTalla",
+            "popup_label": "Size guide",
+            "popup_content": ""
+          }
+        },
+        "quantity_selector_xpwJXM": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_nhTxXA": {
+          "type": "buy_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        }
+      },
+      "block_order": [
+        "vendor_fgyYy9",
+        "title_mzKP9H",
+        "price_aiGRwX",
+        "spacer_kKnByW",
+        "description_aH8byC",
+        "variant_picker_kJYJ7z",
+        "quantity_selector_xpwJXM",
+        "buy_buttons_nhTxXA"
+      ],
+      "custom_css": [
+        ".c-btn--hollow {background-color: #00b900 !important; color: #ffffff; border: 0px solid #00b900; box-shadow: inset 0 0 0 0px var(--color--text);}"
+      ],
+      "settings": {
+        "featured_product": "creatine-monohydrate-1000grams",
+        "content_align": "default",
+        "enable_video_looping": false,
+        "product_image_ratio": "1:1",
+        "enable_gallery_arrows": true,
+        "thumbnails_position": "bottom",
+        "thumbnails_ratio": "1:1",
+        "thumbnails_show_border": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_rich_text_iWtEwq": {
+      "type": "section-rich-text",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "section_title": "Choose a Category",
+        "text": "",
+        "padding_top": 21,
+        "padding_bottom": 0,
+        "section-bottom-margin": true
+      }
+    },
+    "ss_scrolling_images_MUJcTw": {
+      "type": "ss-scrolling-images",
+      "blocks": {
+        "image_tTNAAV": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Sexual-Well-Being_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/sexual-well-being"
+          }
+        },
+        "image_xQ9X4R": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Creatine_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/creatine"
+          }
+        },
+        "image_49KKTt": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Test-Boosters_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/hormonal-support"
+          }
+        },
+        "image_zczQCQ": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Protein_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/protein"
+          }
+        },
+        "image_cEJrqY": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Joint-Support_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/joint-support"
+          }
+        },
+        "image_kzJ8xe": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Mass-Gainer_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/mass-gainer-protein"
+          }
+        },
+        "image_NMyV3A": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Muscle-Building_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/muscle-builders"
+          }
+        },
+        "image_RRRMDM": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Pre-workout_Mens-Health-BOGO40_300x400_WBD_04.jpg",
+            "url": "https://nutritionfaktory.com/collections/pre-workouts"
+          }
+        }
+      },
+      "block_order": [
+        "image_tTNAAV",
+        "image_xQ9X4R",
+        "image_49KKTt",
+        "image_zczQCQ",
+        "image_cEJrqY",
+        "image_kzJ8xe",
+        "image_NMyV3A",
+        "image_RRRMDM"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_height": 130,
+        "heading_align": "center",
+        "slider_speed": 23,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_mt": 0,
+        "slider_direction": "left",
+        "pause_hover": true,
+        "image_width_desktop": 300,
+        "image_width_mobile": 120,
+        "image_height_desktop": 400,
+        "image_height_mobile": 200,
+        "image_radius": 10,
+        "use_content": false,
+        "content_position": "center",
+        "content_max_width": 340,
+        "content_max_width_mobile": 340,
+        "content_padding_vertical": 30,
+        "content_padding_horizontal": 30,
+        "content_distance": 60,
+        "content_radius": 10,
+        "content_border_thickness": 0,
+        "use_shadow": false,
+        "text": "",
+        "text_custom": false,
+        "text_font": "assistant_n4",
+        "text_size": 24,
+        "text_height": 130,
+        "heading_color": "#000000",
+        "content_bg": "#ffffff",
+        "content_border_color": "#000000",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "section_collection_collection_list_CkQaeR": {
+      "type": "section-collection-collection-list",
+      "blocks": {
+        "collection_bMCQA9": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_1.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_FcHdAA": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_2.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_LJgeQX": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_3.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_hgpERX": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_4.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_efb9Vd": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_5.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_cJbraN": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_6.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_7azagX": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_7.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_nGq4pp": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ collection.metafields.custom.sub_collection_8.value }}",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_bMCQA9",
+        "collection_FcHdAA",
+        "collection_LJgeQX",
+        "collection_hgpERX",
+        "collection_efb9Vd",
+        "collection_cJbraN",
+        "collection_7azagX",
+        "collection_nGq4pp"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "divider": false,
+        "heading_alignment": "center",
+        "section_width": "large",
+        "grid": 5,
+        "spacing": 3,
+        "enable_carousel_desktop": true,
+        "enable_carousel_mobile": true,
+        "title_size": 1,
+        "image_ratio": "1:1",
+        "button_style": "c-btn c-btn--hollow",
+        "alignment": "middle-center",
+        "text_alignment": "center",
+        "show_content_below_image": true,
+        "visibility_heading": true,
+        "visibility_border": true,
+        "visibility_count": false,
+        "visibility_description": false,
+        "visibility_button": false,
+        "hover_options": "hover-button",
+        "color_text": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_strength": 10,
+        "color_default_heading": false,
+        "color_default_border": true,
+        "link_title": "View all",
+        "link": "",
+        "section_link_style": "c-btn c-btn--primary",
+        "padding_top": 30,
+        "padding_bottom": 60
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": true,
+            "filter_visibility": "none"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "grid": 4,
+        "grid_mobile": "2",
+        "rows": 6,
+        "show_count": false,
+        "sort_enable": true,
+        "filter_style": "sidebar"
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "center_title": true,
+        "show_collection_image": false,
+        "collection_image_height": "4:1",
+        "collection_image_mobile_height": false,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    }
+  },
+  "order": [
+    "section_image_slideshow_3bJEaB",
+    "section_image_slideshow_9wAX3T",
+    "section_product_dh9zXx",
+    "section_product_j69q4W",
+    "section_product_9MHPUN",
+    "section_rich_text_iWtEwq",
+    "ss_scrolling_images_MUJcTw",
+    "section_collection_collection_list_CkQaeR",
+    "product-grid",
+    "banner"
+  ]
+}

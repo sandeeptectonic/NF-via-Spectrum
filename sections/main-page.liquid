@@ -1,0 +1,50 @@
+<section class="section section--page page">
+    <div class="container container--{{ section.settings.page_width }}">
+        <div class="section__title section__title--center">
+            <h1 class="section__title-text h2">{{ page.title }}</h1>
+        </div>
+        <div class="page__content rte">
+            {{ page.content }}
+        </div>
+    </div>
+</section>
+
+{% schema %}
+{
+  "name": "Page",
+  "settings": [
+    {
+      "type": "select",
+      "id": "page_width",
+      "label": "Page width",
+      "options": [
+        {
+          "value": "tiny",
+          "label": "Tiny (max-width: 740px)"
+        },
+        {
+          "value": "small",
+          "label": "Small (max-width: 980px)"
+        },
+        {
+          "value": "medium",
+          "label": "Medium (max-width: 1200px)"
+        },
+        {
+          "value": "large",
+          "label": "Large (max-width: 1400px)"
+        },
+        {
+          "value": "xlarge",
+          "label": "xLarge (max-width: 1600px)"
+        },
+        {
+          "value": "full",
+          "label": "Full (100% width)"
+        }
+      ],
+      "default": "tiny"
+    }
+  ]
+}
+{% endschema %}

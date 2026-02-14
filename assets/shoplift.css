@@ -1,0 +1,182 @@
+.sl-brandstyle-2ed225ea-4da0-4c2a-b6f5-f0b4d93b20ac .sl-font-style--title {
+font-family: "Avenir Next";
+font-weight: 600;
+font-style: normal;
+}
+.sl-brandstyle-2ed225ea-4da0-4c2a-b6f5-f0b4d93b20ac .sl-font-style--body {
+font-family: Roboto;
+font-weight: 400;
+font-style: normal;
+}
+.sl-brandstyle-2ed225ea-4da0-4c2a-b6f5-f0b4d93b20ac .sl-font-style--button {
+font-family: Roboto;
+font-weight: 400;
+font-style: normal;
+text-transform: uppercase;
+}
+.sl-brandstyle-2ed225ea-4da0-4c2a-b6f5-f0b4d93b20ac .sl-font-style--label {
+font-family: Roboto;
+font-weight: 400;
+font-style: normal;
+text-transform: uppercase;
+}
+.sl-pattern-33d0577f-ddce-44be-9ca4-f4ec96205765 {
+background-color: #f2f2f2;
+border-style: none;
+--sl-gv-bg-color: #f2f2f2;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #f2f2f2;
+}
+.sl-pattern-33d0577f-ddce-44be-9ca4-f4ec96205765 .sl-font-style--title { color: #000000; }
+.sl-pattern-33d0577f-ddce-44be-9ca4-f4ec96205765 .sl-font-style--body { color: #000000; }
+.sl-pattern-33d0577f-ddce-44be-9ca4-f4ec96205765 .sl-font-style--button { color: #000000; }
+.sl-pattern-33d0577f-ddce-44be-9ca4-f4ec96205765 .sl-font-style--label { color: #000000; }
+.sl-pattern-33d0577f-ddce-44be-9ca4-f4ec96205765 .sl-button--brand-style {
+color: #000000;
+background-color: #f2f2f2;
+}
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #efefef;
+--sl-gv-btn-radius: 8px;
+}
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-font-style--title { color: #6a6c77; }
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-font-style--body { color: #6a6c77; }
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-font-style--button { color: #000000; }
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-font-style--label { color: #6a6c77; }
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-button--brand-style {
+color: #000000;
+background-color: #efefef;
+}
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-button--button-style { border: 2px solid; }
+.sl-pattern-42b656e3-7457-4192-8fff-ce7d85897d24 .sl-button--border-radius { border-radius: 8px; }
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #000000;
+--sl-gv-btn-radius: 40px;
+}
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd .sl-font-style--title { color: #000000; }
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd .sl-font-style--body { color: #000000; }
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd .sl-font-style--button { color: #000000; }
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd .sl-font-style--label { color: #000000; }
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd .sl-button--brand-style {
+color: #000000;
+background-color: #000000;
+}
+.sl-pattern-701ef8f0-5dc0-45d2-8abf-01ac06da53bd .sl-button--border-radius { border-radius: 40px; }
+.sl-pattern-839d3164-a27a-421f-bf1c-b235a095ded9 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-839d3164-a27a-421f-bf1c-b235a095ded9 .sl-font-style--title { color: #111212; }
+.sl-pattern-839d3164-a27a-421f-bf1c-b235a095ded9 .sl-font-style--body { color: #000000; }
+.sl-pattern-839d3164-a27a-421f-bf1c-b235a095ded9 .sl-font-style--button { color: #000000; }
+.sl-pattern-839d3164-a27a-421f-bf1c-b235a095ded9 .sl-font-style--label { color: #000000; }
+.sl-pattern-839d3164-a27a-421f-bf1c-b235a095ded9 .sl-button--brand-style {
+color: #000000;
+background-color: #ffffff;
+}
+.sl-pattern-dcaee18a-9b5f-44f7-a642-770826774494 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-dcaee18a-9b5f-44f7-a642-770826774494 .sl-font-style--title { color: #2c2c2c; }
+.sl-pattern-dcaee18a-9b5f-44f7-a642-770826774494 .sl-font-style--body { color: #000000; }
+.sl-pattern-dcaee18a-9b5f-44f7-a642-770826774494 .sl-font-style--button { color: #000000; }
+.sl-pattern-dcaee18a-9b5f-44f7-a642-770826774494 .sl-font-style--label { color: #000000; }
+.sl-pattern-dcaee18a-9b5f-44f7-a642-770826774494 .sl-button--brand-style {
+color: #000000;
+background-color: #ffffff;
+}
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #ffffff;
+--sl-gv-btn-radius: 40px;
+}
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-font-style--title { color: #000000; }
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-font-style--body { color: #000000; }
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-font-style--button { color: #000000; }
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-font-style--label { color: #000000; }
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-button--brand-style {
+color: #000000;
+background-color: #ffffff;
+}
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-button--button-style { border: 2px solid; }
+.sl-pattern-e65ac245-4a11-4799-b23c-1d54ffb81a47 .sl-button--border-radius { border-radius: 40px; }
+.sl-pattern-5f693f48-8c2a-4900-8c35-0abeaa790c0f {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #ffffff;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-5f693f48-8c2a-4900-8c35-0abeaa790c0f .sl-font-style--title { color: #000000; }
+.sl-pattern-5f693f48-8c2a-4900-8c35-0abeaa790c0f .sl-font-style--body { color: #000000; }
+.sl-pattern-5f693f48-8c2a-4900-8c35-0abeaa790c0f .sl-font-style--button { color: #ffffff; }
+.sl-pattern-5f693f48-8c2a-4900-8c35-0abeaa790c0f .sl-font-style--label { color: #000000; }
+.sl-pattern-5f693f48-8c2a-4900-8c35-0abeaa790c0f .sl-button--brand-style {
+color: #ffffff;
+background-color: #ffffff;
+}
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #ffffff;
+--sl-gv-btn-radius: 40px;
+}
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e .sl-font-style--title { color: #111212; }
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e .sl-font-style--body { color: #000000; }
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e .sl-font-style--button { color: #000000; }
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e .sl-font-style--label { color: #000000; }
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e .sl-button--brand-style {
+color: #000000;
+background-color: #ffffff;
+}
+.sl-pattern-279a66ed-76dc-4af7-819c-ce87c761c63e .sl-button--border-radius { border-radius: 40px; }
+.sl-pattern-e76127a3-ad76-4c87-be26-5458a56850ab {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-e76127a3-ad76-4c87-be26-5458a56850ab .sl-font-style--title { color: #000000; }
+.sl-pattern-e76127a3-ad76-4c87-be26-5458a56850ab .sl-font-style--body { color: #000000; }
+.sl-pattern-e76127a3-ad76-4c87-be26-5458a56850ab .sl-font-style--button { color: #000000; }
+.sl-pattern-e76127a3-ad76-4c87-be26-5458a56850ab .sl-font-style--label { color: #000000; }
+.sl-pattern-e76127a3-ad76-4c87-be26-5458a56850ab .sl-button--brand-style {
+color: #000000;
+background-color: #ffffff;
+}
+.sl-pattern-ca6f28ff-877d-435e-8255-e0a8ad131fe5 {
+background-color: #ffffff;
+border-style: none;
+--sl-gv-bg-color: #ffffff;
+--sl-gv-btn-txt-color: #000000;
+--sl-gv-btn-bg-color: #ffffff;
+}
+.sl-pattern-ca6f28ff-877d-435e-8255-e0a8ad131fe5 .sl-font-style--title { color: #111212; }
+.sl-pattern-ca6f28ff-877d-435e-8255-e0a8ad131fe5 .sl-font-style--body { color: #000000; }
+.sl-pattern-ca6f28ff-877d-435e-8255-e0a8ad131fe5 .sl-font-style--button { color: #000000; }
+.sl-pattern-ca6f28ff-877d-435e-8255-e0a8ad131fe5 .sl-font-style--label { color: #000000; }
+.sl-pattern-ca6f28ff-877d-435e-8255-e0a8ad131fe5 .sl-button--brand-style {
+color: #000000;
+background-color: #ffffff;
+}

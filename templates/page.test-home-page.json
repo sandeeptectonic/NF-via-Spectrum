@@ -1,0 +1,529 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_width": "large"
+      }
+    },
+    "sl_image_hero_1_1_9R3ii7": {
+      "type": "sl-image-hero-1-1",
+      "blocks": {
+        "headline_iBjX37": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p><strong>SLAM DUNK SALE 🏀</strong></p>",
+            "strike_text": "",
+            "text_size": 58,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 32,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2"
+          }
+        },
+        "subheadline_DVfpVY": {
+          "type": "subheadline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>All-Star Deals All Month Long</p>",
+            "strike_text": "",
+            "text_size": 24,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 16,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#00b900"
+          }
+        },
+        "countdown_cTbNPt": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "countdown_date": "2025-06-30",
+            "countdown_time": "12:00 AM -05:00",
+            "timer_size": "medium",
+            "rounding": "none",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#ffffff",
+            "number_color": "rgba(0,0,0,0)",
+            "label_color": "#f2f2f2"
+          }
+        },
+        "overline_cTRMLV": {
+          "type": "overline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>Save big on protein, pre-workouts, wellness & more — no code needed.</p>",
+            "text_size": 16,
+            "letter_spacing": 10,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 10,
+            "badge_style": "outline",
+            "badge_rounding": "none",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2",
+            "badge_color": "rgba(0,0,0,0)"
+          }
+        },
+        "button_DpP3jj": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "large",
+            "button_rounding": "semi_round",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop & Save",
+            "button_style": "solid",
+            "button_link": "https://nutritionfaktory.com/collections/top-10-overall",
+            "icon_name": "icon-name",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "brand_style",
+            "second_button_link": "",
+            "second_icon_name": "icon-name",
+            "mobile_button_size": "large",
+            "mobile_button_width": "wide",
+            "anchor_bottom": true,
+            "button_color": "#00b900",
+            "text_color": "#ffffff",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "headline_iBjX37",
+        "subheadline_DVfpVY",
+        "countdown_cTbNPt",
+        "overline_cTRMLV",
+        "button_DpP3jj"
+      ],
+      "name": "⚡ Image hero 1.1 Desktop Only",
+      "settings": {
+        "devices": "desktop",
+        "image": "shopify://shop_images/Slam-Dunk-Sale-25-1280x720_WBD_03_0a792039-e8b8-4368-ba7a-2a2ffccea784.jpg",
+        "image_position": "right",
+        "image_overlay_opacity": 0,
+        "pattern_select": "33d0577f-ddce-44be-9ca4-f4ec96205765",
+        "section_height": "small",
+        "section_width": "small",
+        "content_position": "middle_center",
+        "section_border": "none",
+        "mobile_image_position": "match_desktop",
+        "mobile_image_overlay_opacity": 59,
+        "mobile_section_height": "small",
+        "mobile_content_position": "match",
+        "background_color": "#242021",
+        "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "sl_image_hero_1_1_7gJNWW": {
+      "type": "sl-image-hero-1-1",
+      "blocks": {
+        "headline_DXfmcG": {
+          "type": "headline",
+          "settings": {
+            "devices": "all",
+            "text": "<p><strong>SLAM DUNK SALE 🏀</strong></p>",
+            "strike_text": "",
+            "text_size": 58,
+            "font_style": "title",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 38,
+            "mobile_top_padding": 10,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2"
+          }
+        },
+        "subheadline_pTYcgD": {
+          "type": "subheadline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>All-Star Deals All Month Long</p>",
+            "strike_text": "",
+            "text_size": 24,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_text_size": 16,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#00b900"
+          }
+        },
+        "countdown_cDDbLm": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "devices": "all",
+            "countdown_date": "2025-06-30",
+            "countdown_time": "12:00 AM -05:00",
+            "timer_size": "medium",
+            "rounding": "none",
+            "number_font_style": "body",
+            "label_font_style": "label",
+            "top_padding": 0,
+            "bottom_padding": 0,
+            "mobile_timer_size": "match",
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "background_color": "#ffffff",
+            "number_color": "rgba(0,0,0,0)",
+            "label_color": "#f2f2f2"
+          }
+        },
+        "overline_C6riJp": {
+          "type": "overline",
+          "settings": {
+            "devices": "all",
+            "text": "<p>Save big on protein, pre-workouts, wellness & more — no code needed.</p>",
+            "text_size": 16,
+            "letter_spacing": 10,
+            "font_style": "body",
+            "top_padding": 0,
+            "bottom_padding": 10,
+            "badge_style": "outline",
+            "badge_rounding": "none",
+            "mobile_text_size": 14,
+            "mobile_top_padding": 0,
+            "mobile_bottom_padding": 0,
+            "text_color": "#f2f2f2",
+            "badge_color": "rgba(0,0,0,0)"
+          }
+        },
+        "button_wGgXWX": {
+          "type": "button",
+          "settings": {
+            "devices": "all",
+            "button_size": "small",
+            "button_rounding": "semi_round",
+            "font_style": "button",
+            "icon_position": "right",
+            "hover_effect": "brand_style",
+            "button_text": "Shop & Save",
+            "button_style": "solid",
+            "button_link": "https://nutritionfaktory.com/collections/top-10-overall",
+            "icon_name": "icon-name",
+            "button_subtext": "",
+            "second_button_text": "",
+            "second_button_style": "brand_style",
+            "second_button_link": "",
+            "second_icon_name": "icon-name",
+            "mobile_button_size": "large",
+            "mobile_button_width": "wide",
+            "anchor_bottom": true,
+            "button_color": "#00b900",
+            "text_color": "#ffffff",
+            "button_hover_color": "rgba(0,0,0,0)",
+            "text_hover_color": "rgba(0,0,0,0)",
+            "subtext_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "headline_DXfmcG",
+        "subheadline_pTYcgD",
+        "countdown_cDDbLm",
+        "overline_C6riJp",
+        "button_wGgXWX"
+      ],
+      "name": "⚡ Image hero 1.1 Mobile Only",
+      "settings": {
+        "devices": "mobile",
+        "image_position": "right",
+        "image_overlay_opacity": 61,
+        "pattern_select": "33d0577f-ddce-44be-9ca4-f4ec96205765",
+        "section_height": "small",
+        "section_width": "medium",
+        "content_position": "middle_center",
+        "section_border": "none",
+        "mobile_image": "shopify://shop_images/Slam-Dunk-Sale-25-1280x720_WBM_01.jpg",
+        "mobile_image_position": "background",
+        "mobile_image_overlay_opacity": 41,
+        "mobile_section_height": "small",
+        "mobile_content_position": "middle_center",
+        "background_color": "#242021",
+        "border_color": "rgba(0,0,0,0)"
+      }
+    },
+    "section_image_slideshow_7ceWYy": {
+      "type": "section-image-slideshow",
+      "blocks": {
+        "image_HBMzB6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1200x800_01.jpg",
+            "link": "https://nutritionfaktory.com/collections/all-products?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte="
+          }
+        }
+      },
+      "block_order": [
+        "image_HBMzB6"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_on_device": "mobile--device",
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "nav_style": "solid-brand",
+        "nav_arrows": false,
+        "slideshow_width": "full",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_multi_column_images_MarhpL": {
+      "type": "section-multi-column-images",
+      "blocks": {
+        "text_qD4XDN": {
+          "type": "text",
+          "settings": {
+            "image_link": "",
+            "image": "shopify://shop_images/App-2X-Savings_WBD_01.jpg",
+            "title": "Column heading",
+            "sub_title": "",
+            "desc": "<p>Describe the main features of your brand or products using a few lines of text along with images or icons.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_aURM7F": {
+          "type": "text",
+          "settings": {
+            "image_link": "",
+            "image": "shopify://shop_images/Alani-Nu-Sherbet-Swirl_WBD_01.jpg",
+            "title": "Column heading",
+            "sub_title": "",
+            "desc": "<p>Describe the main features of your brand or products using a few lines of text along with images or icons.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        },
+        "text_innHBT": {
+          "type": "text",
+          "settings": {
+            "image_link": "",
+            "image": "shopify://shop_images/App-2X-Savings_WBD_01.jpg",
+            "title": "Column heading",
+            "sub_title": "",
+            "desc": "<p>Describe the main features of your brand or products using a few lines of text along with images or icons.</p>",
+            "link_title": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_qD4XDN",
+        "text_aURM7F",
+        "text_innHBT"
+      ],
+      "name": "Multicolumn with images",
+      "settings": {
+        "show_on_device": "show-all-devices",
+        "title": "3 Seasons to Shop NF",
+        "container": "large",
+        "link_title": "Learn more",
+        "link": "",
+        "divider": false,
+        "grid": 3,
+        "spacing": 3,
+        "alignment": "center",
+        "link_style": "hollow",
+        "heading_size": 1,
+        "image_toggle": true,
+        "image_size": 100,
+        "image_padding": 0,
+        "image_ratio": "16:9",
+        "image_fit": false,
+        "bg_color": "rgba(0,0,0,0)",
+        "color_image": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "text_heading_color": false,
+        "text_border_color": true,
+        "grid_mobile": "1",
+        "mobile_layout": "carousel",
+        "padding_top": 18,
+        "padding_bottom": 0,
+        "section-bottom-margin": false
+      }
+    },
+    "section_collection_zf4p8t": {
+      "type": "section-collection",
+      "blocks": {
+        "collection_rC7q9W": {
+          "type": "collection",
+          "settings": {
+            "heading": "",
+            "heading_color": "rgba(0,0,0,0)",
+            "collection": "top-10-overall",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_rC7q9W"
+      ],
+      "settings": {
+        "title": "Best Sellers",
+        "text_alignment": "center",
+        "section_width": "wide",
+        "link_title": "View all",
+        "link": "",
+        "divider": false,
+        "maximum_products": 12,
+        "grid": 6,
+        "enable_carousel_desktop": true,
+        "grid_mobile": "1",
+        "enable_carousel_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collection_list_QPG8dc": {
+      "type": "section-collection-list",
+      "blocks": {
+        "collection_T7NKkt": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_4t4wVt": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_BnfTFm": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_jANJUt": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_tx6pam": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "collection_K9Rpdt": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "heading": "",
+            "description": "",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_T7NKkt",
+        "collection_4t4wVt",
+        "collection_BnfTFm",
+        "collection_jANJUt",
+        "collection_tx6pam",
+        "collection_K9Rpdt"
+      ],
+      "settings": {
+        "title": "",
+        "desc": "",
+        "divider": false,
+        "heading_alignment": "center",
+        "section_width": "large",
+        "grid": 4,
+        "spacing": 1,
+        "enable_carousel_desktop": true,
+        "enable_carousel_mobile": false,
+        "title_size": 3,
+        "image_ratio": "3:4",
+        "button_style": "c-btn c-btn--hollow",
+        "alignment": "middle-center",
+        "text_alignment": "center",
+        "show_content_below_image": false,
+        "visibility_heading": true,
+        "visibility_border": true,
+        "visibility_count": false,
+        "visibility_description": false,
+        "visibility_button": true,
+        "hover_options": "hover-button",
+        "color_text": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_strength": 10,
+        "color_default_heading": false,
+        "color_default_border": true,
+        "link_title": "View all",
+        "link": "",
+        "section_link_style": "link link--arrow",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sl_image_hero_1_1_9R3ii7",
+    "sl_image_hero_1_1_7gJNWW",
+    "section_image_slideshow_7ceWYy",
+    "section_multi_column_images_MarhpL",
+    "section_collection_zf4p8t",
+    "section_collection_list_QPG8dc"
+  ]
+}
